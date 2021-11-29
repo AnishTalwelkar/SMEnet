@@ -1,0 +1,1001 @@
+H_id,Sector,City,No of employees required,Date of joining
+1,Agri Products,Nagpur,46,31.07.2020
+2,Transport & Logistics,Bangalore,112,04.09.2020
+3,Textile,Nashik,148,16.09.2020
+4,Construction,Pune,103,28.08.2020
+5,Textile,Mumbai,140,03.09.2020
+6,Construction,Kolkata,8,29.06.2020
+7,Electronics,Nashik,115,01.09.2020
+8,Agri Products,Mumbai,96,21.06.2020
+9,Textile,Bangalore,87,02.08.2020
+10,Construction,Nashik,17,30.06.2020
+11,Automobile,Pune,149,29.06.2020
+12,Automobile,Kolkata,34,09.07.2020
+13,Textile,Bangalore,19,19.09.2020
+14,Automobile,Nagpur,146,09.09.2020
+15,Automobile,Mumbai,46,30.06.2020
+16,Agri Products,Nashik,25,12.09.2020
+17,Construction,Mumbai,81,13.07.2020
+18,Agri Products,Bangalore,30,19.08.2020
+19,Electronics,Nashik,5,27.08.2020
+20,Construction,Pune,25,02.09.2020
+21,Construction,Nagpur,121,12.07.2020
+22,Agri Products,Kolkata,18,24.06.2020
+23,Construction,Mumbai,24,08.08.2020
+24,Agri Products,Kolkata,2,03.08.2020
+25,Transport & Logistics,Bangalore,22,28.08.2020
+26,Construction,Nashik,145,05.09.2020
+27,Construction,Nashik,129,25.08.2020
+28,Automobile,Nagpur,42,07.07.2020
+29,Textile,Pune,100,23.07.2020
+30,Agri Products,Kolkata,101,15.07.2020
+31,Transport & Logistics,Bangalore,3,22.08.2020
+32,Agri Products,Mumbai,115,17.08.2020
+33,Automobile,Nashik,93,04.09.2020
+34,Agri Products,Pune,44,17.07.2020
+35,Agri Products,Mumbai,88,09.09.2020
+36,Transport & Logistics,Pune,66,01.09.2020
+37,Automobile,Bangalore,144,27.08.2020
+38,Transport & Logistics,Kolkata,49,25.06.2020
+39,Construction,Pune,144,01.09.2020
+40,Automobile,Bangalore,140,31.08.2020
+41,Transport & Logistics,Bangalore,44,31.08.2020
+42,Transport & Logistics,Nashik,9,24.08.2020
+43,Transport & Logistics,Bangalore,21,08.08.2020
+44,Transport & Logistics,Kolkata,132,11.07.2020
+45,Textile,Kolkata,38,26.08.2020
+46,Electronics,Mumbai,118,04.07.2020
+47,Electronics,Nashik,127,27.07.2020
+48,Construction,Kolkata,68,31.07.2020
+49,Agri Products,Kolkata,37,24.07.2020
+50,Construction,Mumbai,85,11.07.2020
+51,Automobile,Mumbai,19,06.09.2020
+52,Automobile,Kolkata,49,29.06.2020
+53,Transport & Logistics,Kolkata,68,20.06.2020
+54,Electronics,Nagpur,33,20.07.2020
+55,Electronics,Mumbai,136,22.08.2020
+56,Automobile,Bangalore,59,14.09.2020
+57,Electronics,Pune,107,14.08.2020
+58,Agri Products,Mumbai,21,03.08.2020
+59,Construction,Pune,106,11.08.2020
+60,Construction,Pune,53,15.08.2020
+61,Textile,Mumbai,129,30.06.2020
+62,Agri Products,Pune,122,10.08.2020
+63,Automobile,Bangalore,108,30.07.2020
+64,Construction,Bangalore,121,28.06.2020
+65,Construction,Pune,50,13.08.2020
+66,Transport & Logistics,Pune,2,29.07.2020
+67,Automobile,Bangalore,1,27.07.2020
+68,Automobile,Pune,97,11.09.2020
+69,Agri Products,Bangalore,107,29.07.2020
+70,Agri Products,Pune,107,13.07.2020
+71,Automobile,Mumbai,116,16.07.2020
+72,Automobile,Nagpur,7,19.08.2020
+73,Transport & Logistics,Pune,88,08.08.2020
+74,Construction,Pune,127,08.07.2020
+75,Transport & Logistics,Mumbai,79,16.08.2020
+76,Electronics,Pune,8,31.08.2020
+77,Automobile,Bangalore,140,20.07.2020
+78,Electronics,Kolkata,65,30.08.2020
+79,Electronics,Mumbai,75,08.08.2020
+80,Textile,Pune,77,13.07.2020
+81,Transport & Logistics,Bangalore,80,05.08.2020
+82,Electronics,Bangalore,93,04.08.2020
+83,Automobile,Kolkata,111,09.09.2020
+84,Textile,Pune,46,05.09.2020
+85,Automobile,Pune,7,08.08.2020
+86,Transport & Logistics,Mumbai,142,21.08.2020
+87,Agri Products,Nashik,31,03.07.2020
+88,Agri Products,Kolkata,137,11.08.2020
+89,Agri Products,Pune,58,27.08.2020
+90,Transport & Logistics,Mumbai,111,21.08.2020
+91,Agri Products,Kolkata,55,28.08.2020
+92,Construction,Mumbai,116,12.09.2020
+93,Construction,Bangalore,113,07.07.2020
+94,Electronics,Bangalore,41,30.07.2020
+95,Textile,Nagpur,29,01.07.2020
+96,Textile,Mumbai,61,22.07.2020
+97,Textile,Kolkata,132,14.09.2020
+98,Textile,Nashik,121,16.07.2020
+99,Textile,Pune,107,27.08.2020
+100,Transport & Logistics,Kolkata,124,24.08.2020
+101,Automobile,Nashik,33,13.08.2020
+102,Automobile,Bangalore,64,13.09.2020
+103,Electronics,Nagpur,39,15.07.2020
+104,Automobile,Nashik,141,07.08.2020
+105,Agri Products,Nashik,18,09.07.2020
+106,Automobile,Nagpur,68,27.08.2020
+107,Electronics,Nashik,144,20.07.2020
+108,Electronics,Kolkata,76,08.08.2020
+109,Automobile,Mumbai,2,22.06.2020
+110,Automobile,Nashik,86,26.06.2020
+111,Agri Products,Kolkata,86,25.07.2020
+112,Agri Products,Bangalore,146,08.08.2020
+113,Agri Products,Kolkata,75,16.08.2020
+114,Electronics,Nashik,90,25.07.2020
+115,Electronics,Bangalore,127,17.08.2020
+116,Transport & Logistics,Nashik,116,07.08.2020
+117,Agri Products,Nashik,39,09.08.2020
+118,Construction,Kolkata,130,08.07.2020
+119,Construction,Nagpur,5,07.09.2020
+120,Transport & Logistics,Nagpur,57,28.08.2020
+121,Transport & Logistics,Nashik,37,14.09.2020
+122,Transport & Logistics,Nashik,7,27.07.2020
+123,Textile,Nashik,125,18.09.2020
+124,Electronics,Pune,88,07.08.2020
+125,Electronics,Nashik,4,22.06.2020
+126,Electronics,Pune,11,25.08.2020
+127,Textile,Mumbai,30,28.07.2020
+128,Automobile,Bangalore,64,07.08.2020
+129,Electronics,Bangalore,84,01.08.2020
+130,Agri Products,Nashik,83,16.07.2020
+131,Construction,Mumbai,56,08.07.2020
+132,Electronics,Mumbai,1,16.08.2020
+133,Textile,Kolkata,117,22.08.2020
+134,Automobile,Pune,119,17.09.2020
+135,Textile,Mumbai,84,07.07.2020
+136,Agri Products,Mumbai,130,20.08.2020
+137,Automobile,Bangalore,52,22.06.2020
+138,Automobile,Nashik,15,24.08.2020
+139,Agri Products,Nashik,68,19.08.2020
+140,Textile,Pune,147,18.07.2020
+141,Transport & Logistics,Nagpur,66,07.08.2020
+142,Transport & Logistics,Nashik,96,03.09.2020
+143,Textile,Kolkata,68,18.07.2020
+144,Electronics,Pune,67,08.08.2020
+145,Automobile,Nashik,53,14.07.2020
+146,Construction,Kolkata,20,24.06.2020
+147,Electronics,Pune,10,18.08.2020
+148,Transport & Logistics,Pune,130,03.07.2020
+149,Automobile,Nagpur,61,15.09.2020
+150,Agri Products,Kolkata,11,18.07.2020
+151,Electronics,Mumbai,31,30.07.2020
+152,Electronics,Mumbai,40,01.08.2020
+153,Textile,Mumbai,146,31.08.2020
+154,Transport & Logistics,Nagpur,50,21.07.2020
+155,Textile,Mumbai,144,01.07.2020
+156,Automobile,Mumbai,94,26.06.2020
+157,Automobile,Nashik,42,12.09.2020
+158,Textile,Pune,115,11.08.2020
+159,Agri Products,Nashik,82,29.08.2020
+160,Automobile,Nashik,92,23.07.2020
+161,Textile,Nagpur,146,15.09.2020
+162,Agri Products,Kolkata,127,17.08.2020
+163,Agri Products,Mumbai,103,29.06.2020
+164,Electronics,Mumbai,27,11.09.2020
+165,Automobile,Nagpur,45,08.07.2020
+166,Agri Products,Pune,14,31.07.2020
+167,Automobile,Mumbai,145,12.09.2020
+168,Construction,Bangalore,142,04.08.2020
+169,Agri Products,Nagpur,51,13.08.2020
+170,Electronics,Nagpur,149,15.09.2020
+171,Automobile,Bangalore,68,13.07.2020
+172,Agri Products,Pune,113,19.09.2020
+173,Agri Products,Pune,68,19.07.2020
+174,Agri Products,Pune,109,12.09.2020
+175,Electronics,Pune,53,23.07.2020
+176,Construction,Bangalore,65,19.08.2020
+177,Automobile,Nashik,142,10.07.2020
+178,Agri Products,Nagpur,56,03.08.2020
+179,Construction,Pune,142,15.09.2020
+180,Agri Products,Nashik,28,19.08.2020
+181,Construction,Nashik,20,12.09.2020
+182,Automobile,Mumbai,31,26.06.2020
+183,Textile,Pune,41,19.08.2020
+184,Electronics,Bangalore,74,20.07.2020
+185,Textile,Bangalore,24,12.07.2020
+186,Transport & Logistics,Kolkata,61,20.08.2020
+187,Agri Products,Nagpur,88,06.07.2020
+188,Agri Products,Pune,42,23.07.2020
+189,Agri Products,Pune,131,17.09.2020
+190,Textile,Nashik,50,20.08.2020
+191,Transport & Logistics,Pune,87,03.07.2020
+192,Textile,Nagpur,77,20.06.2020
+193,Electronics,Kolkata,58,21.07.2020
+194,Construction,Nashik,129,26.07.2020
+195,Automobile,Nagpur,135,09.08.2020
+196,Textile,Mumbai,97,25.07.2020
+197,Construction,Bangalore,62,25.07.2020
+198,Automobile,Nagpur,144,17.07.2020
+199,Electronics,Pune,66,04.09.2020
+200,Automobile,Mumbai,36,18.07.2020
+201,Automobile,Nagpur,6,30.06.2020
+202,Electronics,Kolkata,73,03.08.2020
+203,Transport & Logistics,Nashik,96,09.08.2020
+204,Transport & Logistics,Nashik,84,04.08.2020
+205,Electronics,Pune,95,02.07.2020
+206,Textile,Nagpur,28,09.07.2020
+207,Electronics,Kolkata,53,17.08.2020
+208,Agri Products,Pune,118,13.08.2020
+209,Automobile,Bangalore,44,23.07.2020
+210,Automobile,Bangalore,124,22.08.2020
+211,Transport & Logistics,Nagpur,110,13.09.2020
+212,Transport & Logistics,Mumbai,106,18.09.2020
+213,Automobile,Mumbai,37,27.06.2020
+214,Construction,Nashik,109,25.07.2020
+215,Electronics,Bangalore,43,06.07.2020
+216,Transport & Logistics,Mumbai,143,24.08.2020
+217,Textile,Mumbai,117,01.09.2020
+218,Agri Products,Nashik,146,27.07.2020
+219,Transport & Logistics,Pune,61,25.07.2020
+220,Transport & Logistics,Bangalore,23,13.07.2020
+221,Agri Products,Nashik,22,10.09.2020
+222,Transport & Logistics,Kolkata,70,06.07.2020
+223,Agri Products,Bangalore,113,09.07.2020
+224,Textile,Nashik,29,12.09.2020
+225,Textile,Bangalore,39,09.07.2020
+226,Electronics,Mumbai,112,24.06.2020
+227,Construction,Pune,49,29.08.2020
+228,Electronics,Nashik,13,28.08.2020
+229,Automobile,Nagpur,99,01.07.2020
+230,Textile,Kolkata,136,22.07.2020
+231,Agri Products,Mumbai,106,26.07.2020
+232,Construction,Nashik,29,04.07.2020
+233,Automobile,Mumbai,34,13.09.2020
+234,Automobile,Bangalore,58,21.06.2020
+235,Agri Products,Nagpur,123,10.08.2020
+236,Textile,Bangalore,134,17.08.2020
+237,Transport & Logistics,Pune,69,11.09.2020
+238,Construction,Nagpur,6,27.06.2020
+239,Agri Products,Mumbai,36,03.07.2020
+240,Transport & Logistics,Kolkata,64,06.07.2020
+241,Electronics,Kolkata,47,01.07.2020
+242,Automobile,Kolkata,137,22.07.2020
+243,Automobile,Pune,116,12.07.2020
+244,Construction,Mumbai,134,29.06.2020
+245,Electronics,Kolkata,42,20.07.2020
+246,Textile,Bangalore,114,26.08.2020
+247,Transport & Logistics,Mumbai,103,22.08.2020
+248,Construction,Kolkata,41,19.07.2020
+249,Automobile,Mumbai,142,07.08.2020
+250,Construction,Nagpur,84,28.08.2020
+251,Agri Products,Bangalore,41,13.08.2020
+252,Electronics,Nagpur,132,25.06.2020
+253,Automobile,Nashik,97,05.09.2020
+254,Textile,Nashik,40,18.07.2020
+255,Automobile,Kolkata,46,05.07.2020
+256,Agri Products,Nashik,54,18.07.2020
+257,Textile,Nagpur,140,06.09.2020
+258,Textile,Mumbai,71,01.08.2020
+259,Electronics,Bangalore,148,14.09.2020
+260,Construction,Bangalore,145,13.09.2020
+261,Electronics,Pune,139,09.07.2020
+262,Agri Products,Kolkata,87,17.08.2020
+263,Automobile,Mumbai,130,09.08.2020
+264,Electronics,Nagpur,2,27.07.2020
+265,Automobile,Pune,128,11.09.2020
+266,Electronics,Nagpur,2,16.09.2020
+267,Agri Products,Nashik,58,07.08.2020
+268,Agri Products,Mumbai,23,20.06.2020
+269,Transport & Logistics,Pune,23,13.09.2020
+270,Electronics,Mumbai,145,09.09.2020
+271,Electronics,Nagpur,21,11.08.2020
+272,Transport & Logistics,Nashik,45,23.07.2020
+273,Textile,Kolkata,90,17.07.2020
+274,Agri Products,Bangalore,21,18.07.2020
+275,Transport & Logistics,Nagpur,132,05.09.2020
+276,Automobile,Nashik,100,13.08.2020
+277,Electronics,Nashik,55,04.08.2020
+278,Transport & Logistics,Nashik,80,06.08.2020
+279,Construction,Nagpur,116,13.07.2020
+280,Agri Products,Mumbai,17,10.08.2020
+281,Agri Products,Bangalore,61,27.07.2020
+282,Textile,Kolkata,29,16.09.2020
+283,Construction,Nashik,116,09.07.2020
+284,Transport & Logistics,Kolkata,17,29.08.2020
+285,Construction,Kolkata,4,05.09.2020
+286,Transport & Logistics,Nagpur,80,17.08.2020
+287,Textile,Bangalore,32,08.09.2020
+288,Agri Products,Mumbai,3,15.09.2020
+289,Agri Products,Bangalore,31,28.06.2020
+290,Automobile,Nashik,52,24.08.2020
+291,Textile,Nagpur,61,25.06.2020
+292,Agri Products,Nashik,108,03.09.2020
+293,Transport & Logistics,Nashik,32,06.08.2020
+294,Electronics,Mumbai,138,28.08.2020
+295,Agri Products,Bangalore,82,11.08.2020
+296,Electronics,Nagpur,102,23.08.2020
+297,Construction,Mumbai,130,16.07.2020
+298,Agri Products,Nashik,99,03.09.2020
+299,Construction,Bangalore,64,15.08.2020
+300,Electronics,Pune,14,04.07.2020
+301,Agri Products,Nagpur,78,05.08.2020
+302,Transport & Logistics,Nashik,23,11.08.2020
+303,Electronics,Mumbai,137,24.08.2020
+304,Textile,Nagpur,105,24.06.2020
+305,Electronics,Pune,20,24.07.2020
+306,Automobile,Mumbai,93,28.07.2020
+307,Transport & Logistics,Nagpur,117,18.07.2020
+308,Transport & Logistics,Pune,140,10.07.2020
+309,Textile,Nashik,34,06.07.2020
+310,Electronics,Nagpur,84,09.07.2020
+311,Agri Products,Pune,52,06.09.2020
+312,Transport & Logistics,Kolkata,136,13.08.2020
+313,Agri Products,Nagpur,115,24.07.2020
+314,Agri Products,Nagpur,74,26.08.2020
+315,Electronics,Nagpur,55,29.06.2020
+316,Transport & Logistics,Pune,132,03.07.2020
+317,Agri Products,Kolkata,69,15.09.2020
+318,Electronics,Mumbai,25,22.06.2020
+319,Automobile,Pune,45,22.08.2020
+320,Transport & Logistics,Nashik,62,21.06.2020
+321,Textile,Mumbai,33,15.07.2020
+322,Textile,Kolkata,128,21.06.2020
+323,Agri Products,Bangalore,99,30.06.2020
+324,Agri Products,Pune,62,12.09.2020
+325,Automobile,Nashik,16,22.06.2020
+326,Automobile,Nashik,10,23.06.2020
+327,Construction,Nagpur,145,03.08.2020
+328,Construction,Mumbai,47,16.08.2020
+329,Automobile,Bangalore,17,02.07.2020
+330,Textile,Bangalore,89,28.06.2020
+331,Agri Products,Nashik,105,19.07.2020
+332,Electronics,Pune,54,22.07.2020
+333,Electronics,Kolkata,65,26.06.2020
+334,Agri Products,Bangalore,6,16.09.2020
+335,Textile,Nashik,31,25.07.2020
+336,Construction,Kolkata,137,25.06.2020
+337,Construction,Bangalore,108,13.07.2020
+338,Automobile,Bangalore,60,10.07.2020
+339,Textile,Nashik,71,17.07.2020
+340,Construction,Pune,101,21.06.2020
+341,Textile,Mumbai,115,12.07.2020
+342,Transport & Logistics,Nashik,75,05.07.2020
+343,Agri Products,Nashik,82,04.07.2020
+344,Automobile,Mumbai,41,18.07.2020
+345,Textile,Mumbai,36,16.08.2020
+346,Textile,Nagpur,57,06.09.2020
+347,Automobile,Kolkata,43,03.07.2020
+348,Transport & Logistics,Mumbai,46,04.09.2020
+349,Electronics,Bangalore,49,13.09.2020
+350,Construction,Mumbai,26,07.07.2020
+351,Electronics,Nashik,142,21.08.2020
+352,Automobile,Pune,90,10.09.2020
+353,Transport & Logistics,Nashik,59,27.08.2020
+354,Automobile,Pune,12,01.07.2020
+355,Automobile,Nashik,14,15.07.2020
+356,Construction,Pune,136,05.08.2020
+357,Textile,Nagpur,145,12.08.2020
+358,Electronics,Kolkata,33,19.08.2020
+359,Electronics,Nashik,28,17.08.2020
+360,Automobile,Pune,126,11.08.2020
+361,Agri Products,Nagpur,70,27.08.2020
+362,Textile,Pune,60,03.08.2020
+363,Construction,Nashik,38,13.08.2020
+364,Transport & Logistics,Pune,138,04.07.2020
+365,Transport & Logistics,Nagpur,117,21.08.2020
+366,Automobile,Bangalore,93,17.09.2020
+367,Automobile,Kolkata,12,26.08.2020
+368,Transport & Logistics,Nagpur,116,26.06.2020
+369,Transport & Logistics,Kolkata,51,13.09.2020
+370,Transport & Logistics,Kolkata,66,10.08.2020
+371,Transport & Logistics,Pune,10,27.06.2020
+372,Transport & Logistics,Bangalore,96,23.07.2020
+373,Electronics,Kolkata,11,23.08.2020
+374,Textile,Kolkata,116,26.07.2020
+375,Textile,Pune,61,17.08.2020
+376,Construction,Bangalore,7,29.06.2020
+377,Textile,Nagpur,43,08.07.2020
+378,Electronics,Nashik,108,12.07.2020
+379,Electronics,Kolkata,76,06.07.2020
+380,Automobile,Nashik,131,25.08.2020
+381,Construction,Nashik,60,29.08.2020
+382,Automobile,Mumbai,146,26.08.2020
+383,Automobile,Kolkata,107,08.08.2020
+384,Construction,Bangalore,131,08.08.2020
+385,Construction,Nashik,47,27.08.2020
+386,Automobile,Nashik,17,03.08.2020
+387,Construction,Mumbai,133,22.07.2020
+388,Automobile,Kolkata,115,02.07.2020
+389,Electronics,Nashik,24,16.08.2020
+390,Textile,Nashik,15,22.07.2020
+391,Automobile,Nashik,105,18.08.2020
+392,Automobile,Nagpur,129,14.08.2020
+393,Transport & Logistics,Bangalore,93,27.08.2020
+394,Electronics,Bangalore,147,10.07.2020
+395,Construction,Pune,107,14.08.2020
+396,Electronics,Mumbai,122,08.08.2020
+397,Electronics,Kolkata,94,14.07.2020
+398,Construction,Nashik,48,27.07.2020
+399,Electronics,Pune,78,06.09.2020
+400,Electronics,Kolkata,41,08.07.2020
+401,Construction,Bangalore,93,21.07.2020
+402,Construction,Bangalore,51,06.09.2020
+403,Automobile,Kolkata,3,04.07.2020
+404,Textile,Bangalore,99,14.09.2020
+405,Electronics,Pune,4,31.07.2020
+406,Textile,Nagpur,128,20.06.2020
+407,Automobile,Nashik,150,01.09.2020
+408,Automobile,Pune,8,24.07.2020
+409,Textile,Nashik,49,04.08.2020
+410,Automobile,Mumbai,98,18.07.2020
+411,Construction,Bangalore,76,30.07.2020
+412,Electronics,Kolkata,75,25.08.2020
+413,Transport & Logistics,Nashik,17,20.06.2020
+414,Automobile,Pune,53,10.08.2020
+415,Textile,Bangalore,85,03.09.2020
+416,Construction,Pune,105,22.06.2020
+417,Transport & Logistics,Nagpur,68,04.09.2020
+418,Automobile,Mumbai,2,13.09.2020
+419,Automobile,Mumbai,125,18.09.2020
+420,Transport & Logistics,Mumbai,132,27.07.2020
+421,Electronics,Nagpur,139,30.07.2020
+422,Automobile,Kolkata,139,09.08.2020
+423,Construction,Kolkata,9,17.09.2020
+424,Transport & Logistics,Bangalore,134,23.06.2020
+425,Agri Products,Nashik,39,05.07.2020
+426,Construction,Mumbai,114,30.07.2020
+427,Transport & Logistics,Mumbai,83,06.07.2020
+428,Construction,Nashik,86,05.08.2020
+429,Transport & Logistics,Kolkata,78,24.08.2020
+430,Electronics,Pune,96,03.09.2020
+431,Construction,Mumbai,95,28.08.2020
+432,Construction,Mumbai,136,22.07.2020
+433,Electronics,Kolkata,36,20.06.2020
+434,Construction,Pune,134,01.07.2020
+435,Agri Products,Nashik,135,02.09.2020
+436,Construction,Kolkata,18,08.08.2020
+437,Construction,Kolkata,73,25.06.2020
+438,Textile,Pune,107,27.07.2020
+439,Construction,Mumbai,128,18.07.2020
+440,Agri Products,Nagpur,137,12.09.2020
+441,Construction,Nashik,87,21.06.2020
+442,Transport & Logistics,Mumbai,66,26.07.2020
+443,Textile,Nashik,147,06.07.2020
+444,Transport & Logistics,Kolkata,33,21.06.2020
+445,Electronics,Mumbai,36,28.07.2020
+446,Electronics,Pune,82,28.06.2020
+447,Automobile,Nashik,120,12.09.2020
+448,Construction,Nagpur,98,22.06.2020
+449,Automobile,Pune,5,05.07.2020
+450,Agri Products,Bangalore,27,16.08.2020
+451,Agri Products,Kolkata,92,15.09.2020
+452,Transport & Logistics,Pune,46,11.08.2020
+453,Electronics,Nagpur,88,16.08.2020
+454,Transport & Logistics,Pune,137,15.09.2020
+455,Transport & Logistics,Nashik,144,07.08.2020
+456,Transport & Logistics,Mumbai,109,22.08.2020
+457,Construction,Nashik,14,06.08.2020
+458,Automobile,Kolkata,50,06.09.2020
+459,Textile,Kolkata,98,18.09.2020
+460,Automobile,Pune,125,22.06.2020
+461,Textile,Pune,7,09.08.2020
+462,Automobile,Nashik,144,11.09.2020
+463,Agri Products,Pune,89,08.08.2020
+464,Automobile,Nagpur,4,30.07.2020
+465,Transport & Logistics,Nashik,142,27.07.2020
+466,Agri Products,Kolkata,84,15.08.2020
+467,Electronics,Mumbai,21,27.07.2020
+468,Electronics,Mumbai,45,30.06.2020
+469,Automobile,Mumbai,128,10.07.2020
+470,Electronics,Bangalore,78,05.07.2020
+471,Transport & Logistics,Pune,101,23.07.2020
+472,Electronics,Kolkata,135,14.08.2020
+473,Automobile,Bangalore,97,12.07.2020
+474,Textile,Kolkata,3,22.06.2020
+475,Automobile,Pune,57,05.08.2020
+476,Transport & Logistics,Bangalore,73,24.06.2020
+477,Electronics,Nagpur,54,26.08.2020
+478,Automobile,Mumbai,41,22.08.2020
+479,Automobile,Nashik,50,31.07.2020
+480,Electronics,Kolkata,7,29.08.2020
+481,Electronics,Nagpur,122,02.08.2020
+482,Electronics,Pune,17,18.09.2020
+483,Transport & Logistics,Mumbai,120,09.08.2020
+484,Construction,Nashik,57,12.09.2020
+485,Automobile,Mumbai,128,31.08.2020
+486,Transport & Logistics,Pune,67,21.08.2020
+487,Automobile,Pune,41,19.09.2020
+488,Automobile,Kolkata,8,12.07.2020
+489,Construction,Mumbai,35,10.09.2020
+490,Transport & Logistics,Pune,13,14.08.2020
+491,Textile,Bangalore,67,20.08.2020
+492,Textile,Bangalore,28,15.07.2020
+493,Agri Products,Mumbai,102,06.08.2020
+494,Electronics,Kolkata,82,24.07.2020
+495,Transport & Logistics,Pune,121,29.06.2020
+496,Agri Products,Kolkata,94,06.08.2020
+497,Agri Products,Nashik,101,10.09.2020
+498,Textile,Pune,25,23.06.2020
+499,Construction,Bangalore,64,18.07.2020
+500,Construction,Pune,13,13.09.2020
+501,Textile,Bangalore,110,16.09.2020
+502,Construction,Nashik,46,20.06.2020
+503,Transport & Logistics,Mumbai,138,23.08.2020
+504,Electronics,Nashik,144,28.08.2020
+505,Textile,Bangalore,138,26.07.2020
+506,Electronics,Pune,103,06.07.2020
+507,Electronics,Mumbai,145,21.06.2020
+508,Agri Products,Nagpur,129,13.07.2020
+509,Automobile,Kolkata,29,17.09.2020
+510,Automobile,Bangalore,14,09.09.2020
+511,Automobile,Bangalore,135,10.08.2020
+512,Agri Products,Nagpur,46,07.09.2020
+513,Automobile,Mumbai,62,29.06.2020
+514,Transport & Logistics,Bangalore,137,14.09.2020
+515,Electronics,Bangalore,117,16.07.2020
+516,Agri Products,Nashik,136,03.07.2020
+517,Textile,Nashik,129,09.07.2020
+518,Automobile,Pune,109,23.06.2020
+519,Textile,Bangalore,101,24.06.2020
+520,Textile,Bangalore,94,11.09.2020
+521,Agri Products,Nagpur,43,06.07.2020
+522,Textile,Kolkata,137,13.07.2020
+523,Textile,Mumbai,81,09.09.2020
+524,Automobile,Mumbai,147,20.07.2020
+525,Textile,Pune,106,21.07.2020
+526,Textile,Pune,138,27.06.2020
+527,Electronics,Kolkata,74,18.07.2020
+528,Construction,Nagpur,35,12.09.2020
+529,Textile,Pune,81,22.06.2020
+530,Transport & Logistics,Pune,9,20.06.2020
+531,Transport & Logistics,Nagpur,31,12.07.2020
+532,Transport & Logistics,Kolkata,115,20.07.2020
+533,Textile,Nashik,2,18.09.2020
+534,Agri Products,Nashik,83,06.07.2020
+535,Agri Products,Pune,6,07.07.2020
+536,Construction,Nashik,98,25.06.2020
+537,Electronics,Mumbai,64,28.07.2020
+538,Textile,Bangalore,122,05.09.2020
+539,Electronics,Pune,93,03.08.2020
+540,Automobile,Nashik,7,02.09.2020
+541,Agri Products,Pune,60,11.08.2020
+542,Automobile,Kolkata,86,19.07.2020
+543,Transport & Logistics,Nashik,69,01.07.2020
+544,Transport & Logistics,Pune,61,20.08.2020
+545,Agri Products,Nagpur,87,13.09.2020
+546,Electronics,Kolkata,56,04.07.2020
+547,Transport & Logistics,Nagpur,77,26.06.2020
+548,Automobile,Nagpur,96,14.09.2020
+549,Textile,Nagpur,49,30.07.2020
+550,Automobile,Mumbai,32,01.08.2020
+551,Agri Products,Nagpur,143,14.09.2020
+552,Agri Products,Mumbai,42,12.07.2020
+553,Construction,Kolkata,150,03.09.2020
+554,Automobile,Kolkata,118,06.09.2020
+555,Automobile,Pune,113,18.09.2020
+556,Electronics,Nashik,89,27.06.2020
+557,Textile,Bangalore,33,27.08.2020
+558,Agri Products,Mumbai,13,01.07.2020
+559,Textile,Nagpur,108,16.07.2020
+560,Construction,Kolkata,9,26.06.2020
+561,Transport & Logistics,Mumbai,121,18.07.2020
+562,Agri Products,Pune,131,16.08.2020
+563,Electronics,Kolkata,85,28.06.2020
+564,Construction,Nashik,43,23.08.2020
+565,Textile,Kolkata,115,17.08.2020
+566,Electronics,Nagpur,100,12.08.2020
+567,Electronics,Nagpur,75,30.07.2020
+568,Electronics,Bangalore,31,06.07.2020
+569,Construction,Nagpur,24,30.06.2020
+570,Agri Products,Bangalore,106,12.07.2020
+571,Agri Products,Mumbai,138,19.07.2020
+572,Agri Products,Nagpur,101,19.09.2020
+573,Electronics,Pune,130,22.08.2020
+574,Textile,Nagpur,13,26.08.2020
+575,Agri Products,Kolkata,37,07.09.2020
+576,Textile,Nashik,128,02.07.2020
+577,Transport & Logistics,Kolkata,131,11.07.2020
+578,Electronics,Nagpur,69,01.07.2020
+579,Agri Products,Mumbai,135,01.07.2020
+580,Textile,Nashik,91,14.09.2020
+581,Electronics,Kolkata,74,04.09.2020
+582,Transport & Logistics,Bangalore,55,28.06.2020
+583,Agri Products,Nagpur,29,15.07.2020
+584,Automobile,Pune,56,03.09.2020
+585,Textile,Bangalore,139,08.08.2020
+586,Agri Products,Nashik,82,03.07.2020
+587,Agri Products,Mumbai,50,26.07.2020
+588,Electronics,Pune,40,21.06.2020
+589,Automobile,Nagpur,141,24.08.2020
+590,Transport & Logistics,Kolkata,148,25.08.2020
+591,Textile,Nagpur,51,17.07.2020
+592,Automobile,Nashik,123,14.09.2020
+593,Textile,Mumbai,133,14.09.2020
+594,Textile,Bangalore,106,22.07.2020
+595,Automobile,Nagpur,71,06.08.2020
+596,Textile,Nagpur,98,06.07.2020
+597,Automobile,Nagpur,131,13.07.2020
+598,Construction,Mumbai,140,20.07.2020
+599,Agri Products,Mumbai,2,16.09.2020
+600,Textile,Bangalore,24,25.06.2020
+601,Transport & Logistics,Mumbai,114,06.08.2020
+602,Transport & Logistics,Nagpur,132,29.06.2020
+603,Electronics,Nashik,136,30.08.2020
+604,Transport & Logistics,Nagpur,60,30.08.2020
+605,Electronics,Bangalore,125,09.09.2020
+606,Construction,Pune,34,09.07.2020
+607,Transport & Logistics,Nashik,128,18.08.2020
+608,Automobile,Kolkata,108,24.08.2020
+609,Transport & Logistics,Nagpur,76,20.08.2020
+610,Agri Products,Kolkata,111,26.07.2020
+611,Agri Products,Pune,128,14.08.2020
+612,Agri Products,Nagpur,72,25.07.2020
+613,Agri Products,Mumbai,40,15.08.2020
+614,Textile,Mumbai,54,09.09.2020
+615,Textile,Nagpur,133,27.06.2020
+616,Automobile,Nashik,81,28.06.2020
+617,Automobile,Pune,81,09.07.2020
+618,Textile,Mumbai,107,29.06.2020
+619,Construction,Mumbai,52,09.08.2020
+620,Transport & Logistics,Nagpur,47,17.07.2020
+621,Agri Products,Pune,147,04.07.2020
+622,Construction,Pune,20,03.07.2020
+623,Electronics,Nagpur,77,25.06.2020
+624,Construction,Pune,90,03.09.2020
+625,Textile,Nashik,81,26.07.2020
+626,Construction,Nagpur,14,21.06.2020
+627,Transport & Logistics,Nashik,144,16.09.2020
+628,Automobile,Pune,85,05.08.2020
+629,Electronics,Nashik,134,23.07.2020
+630,Agri Products,Kolkata,40,01.09.2020
+631,Textile,Pune,6,08.09.2020
+632,Electronics,Nagpur,139,03.07.2020
+633,Automobile,Nagpur,64,18.07.2020
+634,Electronics,Pune,83,02.09.2020
+635,Automobile,Kolkata,81,21.08.2020
+636,Electronics,Bangalore,50,31.08.2020
+637,Construction,Nagpur,147,01.07.2020
+638,Construction,Mumbai,51,30.06.2020
+639,Transport & Logistics,Kolkata,90,09.07.2020
+640,Transport & Logistics,Pune,85,29.08.2020
+641,Construction,Nagpur,12,15.09.2020
+642,Transport & Logistics,Nagpur,57,24.08.2020
+643,Electronics,Nashik,11,23.07.2020
+644,Transport & Logistics,Bangalore,8,09.09.2020
+645,Construction,Kolkata,58,08.08.2020
+646,Transport & Logistics,Kolkata,61,13.07.2020
+647,Construction,Bangalore,131,10.07.2020
+648,Automobile,Bangalore,69,30.07.2020
+649,Agri Products,Mumbai,146,09.08.2020
+650,Textile,Nagpur,103,14.07.2020
+651,Electronics,Pune,141,17.08.2020
+652,Automobile,Nagpur,120,17.08.2020
+653,Textile,Mumbai,142,29.06.2020
+654,Construction,Bangalore,80,24.06.2020
+655,Electronics,Nashik,38,07.09.2020
+656,Automobile,Mumbai,94,22.07.2020
+657,Agri Products,Mumbai,138,05.08.2020
+658,Textile,Nagpur,99,01.08.2020
+659,Construction,Bangalore,13,31.07.2020
+660,Transport & Logistics,Pune,124,23.08.2020
+661,Transport & Logistics,Kolkata,9,31.07.2020
+662,Textile,Nashik,126,18.08.2020
+663,Textile,Pune,80,20.07.2020
+664,Agri Products,Pune,145,12.07.2020
+665,Construction,Mumbai,64,06.08.2020
+666,Transport & Logistics,Kolkata,13,17.08.2020
+667,Agri Products,Bangalore,116,15.07.2020
+668,Agri Products,Pune,129,22.07.2020
+669,Textile,Bangalore,2,09.07.2020
+670,Automobile,Mumbai,132,27.06.2020
+671,Construction,Nashik,98,18.09.2020
+672,Transport & Logistics,Nashik,136,06.07.2020
+673,Transport & Logistics,Pune,4,09.09.2020
+674,Electronics,Bangalore,148,04.09.2020
+675,Electronics,Mumbai,129,15.08.2020
+676,Textile,Pune,58,22.06.2020
+677,Agri Products,Kolkata,22,25.08.2020
+678,Transport & Logistics,Bangalore,28,08.07.2020
+679,Automobile,Bangalore,68,20.07.2020
+680,Automobile,Pune,86,15.08.2020
+681,Electronics,Mumbai,14,12.08.2020
+682,Automobile,Pune,98,09.08.2020
+683,Electronics,Nagpur,97,02.07.2020
+684,Textile,Nagpur,66,13.07.2020
+685,Textile,Nashik,25,11.08.2020
+686,Electronics,Bangalore,10,18.08.2020
+687,Automobile,Nagpur,12,10.09.2020
+688,Textile,Nagpur,66,01.08.2020
+689,Textile,Bangalore,38,01.07.2020
+690,Transport & Logistics,Nashik,25,25.07.2020
+691,Electronics,Kolkata,63,08.07.2020
+692,Construction,Mumbai,117,27.08.2020
+693,Agri Products,Nashik,65,16.09.2020
+694,Construction,Kolkata,90,15.08.2020
+695,Transport & Logistics,Kolkata,92,22.06.2020
+696,Agri Products,Bangalore,35,20.07.2020
+697,Construction,Bangalore,146,06.09.2020
+698,Construction,Pune,51,27.08.2020
+699,Agri Products,Kolkata,113,20.07.2020
+700,Textile,Kolkata,126,24.07.2020
+701,Textile,Pune,131,04.08.2020
+702,Automobile,Mumbai,38,08.08.2020
+703,Electronics,Nashik,121,05.07.2020
+704,Agri Products,Kolkata,115,03.09.2020
+705,Automobile,Mumbai,16,30.06.2020
+706,Construction,Pune,112,19.09.2020
+707,Construction,Mumbai,51,31.07.2020
+708,Construction,Kolkata,18,14.09.2020
+709,Textile,Bangalore,46,04.08.2020
+710,Textile,Nagpur,85,21.08.2020
+711,Agri Products,Bangalore,138,17.09.2020
+712,Transport & Logistics,Kolkata,13,10.07.2020
+713,Agri Products,Bangalore,108,23.08.2020
+714,Transport & Logistics,Nashik,48,28.07.2020
+715,Textile,Mumbai,114,15.07.2020
+716,Transport & Logistics,Nashik,123,24.08.2020
+717,Transport & Logistics,Mumbai,26,25.08.2020
+718,Automobile,Nagpur,70,15.08.2020
+719,Textile,Bangalore,74,09.08.2020
+720,Construction,Kolkata,55,13.07.2020
+721,Automobile,Nashik,107,25.08.2020
+722,Construction,Kolkata,34,26.08.2020
+723,Construction,Pune,137,08.08.2020
+724,Agri Products,Mumbai,48,04.07.2020
+725,Electronics,Bangalore,8,02.08.2020
+726,Agri Products,Kolkata,15,12.09.2020
+727,Electronics,Nashik,106,23.08.2020
+728,Agri Products,Nagpur,30,09.08.2020
+729,Automobile,Mumbai,63,20.06.2020
+730,Transport & Logistics,Bangalore,118,11.07.2020
+731,Transport & Logistics,Nagpur,92,06.07.2020
+732,Electronics,Kolkata,124,30.06.2020
+733,Textile,Nagpur,14,14.08.2020
+734,Construction,Mumbai,41,25.06.2020
+735,Electronics,Pune,150,11.09.2020
+736,Transport & Logistics,Nagpur,105,13.07.2020
+737,Electronics,Mumbai,117,23.07.2020
+738,Automobile,Nashik,106,27.06.2020
+739,Agri Products,Bangalore,48,15.09.2020
+740,Transport & Logistics,Mumbai,23,06.07.2020
+741,Automobile,Bangalore,95,22.08.2020
+742,Textile,Nashik,127,26.07.2020
+743,Automobile,Nagpur,23,04.07.2020
+744,Automobile,Mumbai,92,07.08.2020
+745,Construction,Nashik,102,07.07.2020
+746,Electronics,Bangalore,52,16.08.2020
+747,Automobile,Nagpur,80,20.07.2020
+748,Agri Products,Kolkata,92,13.07.2020
+749,Automobile,Nashik,109,27.08.2020
+750,Construction,Mumbai,56,26.08.2020
+751,Electronics,Pune,91,21.06.2020
+752,Electronics,Kolkata,62,03.09.2020
+753,Textile,Nashik,103,04.08.2020
+754,Construction,Nashik,100,01.09.2020
+755,Automobile,Pune,138,26.08.2020
+756,Electronics,Nashik,100,08.08.2020
+757,Agri Products,Nashik,3,30.06.2020
+758,Electronics,Nashik,42,30.07.2020
+759,Agri Products,Mumbai,81,20.07.2020
+760,Electronics,Bangalore,80,20.08.2020
+761,Automobile,Kolkata,12,29.08.2020
+762,Construction,Kolkata,146,25.08.2020
+763,Electronics,Mumbai,143,10.09.2020
+764,Transport & Logistics,Mumbai,19,11.08.2020
+765,Automobile,Kolkata,118,22.06.2020
+766,Agri Products,Kolkata,139,10.07.2020
+767,Textile,Bangalore,94,01.09.2020
+768,Construction,Mumbai,62,02.07.2020
+769,Textile,Bangalore,35,04.09.2020
+770,Construction,Nashik,94,18.07.2020
+771,Textile,Bangalore,101,06.07.2020
+772,Textile,Nagpur,16,04.09.2020
+773,Textile,Nagpur,79,06.07.2020
+774,Construction,Kolkata,9,26.06.2020
+775,Textile,Bangalore,14,12.07.2020
+776,Automobile,Mumbai,40,24.08.2020
+777,Textile,Nagpur,37,09.09.2020
+778,Transport & Logistics,Kolkata,43,28.06.2020
+779,Agri Products,Kolkata,40,02.09.2020
+780,Construction,Nagpur,144,26.06.2020
+781,Electronics,Nagpur,131,06.08.2020
+782,Transport & Logistics,Kolkata,92,17.09.2020
+783,Transport & Logistics,Nagpur,25,21.08.2020
+784,Electronics,Mumbai,27,07.08.2020
+785,Transport & Logistics,Nagpur,12,17.09.2020
+786,Electronics,Kolkata,12,13.08.2020
+787,Automobile,Kolkata,107,07.08.2020
+788,Textile,Kolkata,62,12.09.2020
+789,Agri Products,Nagpur,125,08.08.2020
+790,Electronics,Kolkata,143,30.07.2020
+791,Automobile,Kolkata,53,15.09.2020
+792,Electronics,Nashik,72,18.07.2020
+793,Automobile,Mumbai,109,12.09.2020
+794,Transport & Logistics,Nashik,124,27.06.2020
+795,Agri Products,Mumbai,115,26.06.2020
+796,Construction,Nashik,100,04.09.2020
+797,Construction,Nashik,125,13.09.2020
+798,Electronics,Pune,5,22.08.2020
+799,Agri Products,Nagpur,91,17.09.2020
+800,Construction,Kolkata,104,15.08.2020
+801,Textile,Bangalore,126,16.09.2020
+802,Transport & Logistics,Nashik,52,29.07.2020
+803,Electronics,Bangalore,129,10.09.2020
+804,Electronics,Nagpur,16,22.06.2020
+805,Transport & Logistics,Kolkata,32,17.08.2020
+806,Agri Products,Nagpur,122,25.07.2020
+807,Textile,Mumbai,102,14.09.2020
+808,Construction,Bangalore,34,02.09.2020
+809,Agri Products,Nagpur,14,19.08.2020
+810,Electronics,Pune,141,16.08.2020
+811,Textile,Nashik,19,08.09.2020
+812,Agri Products,Mumbai,107,19.08.2020
+813,Textile,Bangalore,100,16.07.2020
+814,Automobile,Kolkata,95,01.08.2020
+815,Construction,Mumbai,29,12.09.2020
+816,Textile,Bangalore,140,02.09.2020
+817,Agri Products,Mumbai,115,18.09.2020
+818,Textile,Pune,150,07.08.2020
+819,Construction,Nagpur,25,29.08.2020
+820,Textile,Mumbai,138,15.08.2020
+821,Agri Products,Bangalore,134,17.09.2020
+822,Automobile,Nashik,131,06.09.2020
+823,Agri Products,Mumbai,133,08.08.2020
+824,Agri Products,Mumbai,55,03.09.2020
+825,Transport & Logistics,Pune,121,14.07.2020
+826,Textile,Nagpur,36,30.08.2020
+827,Agri Products,Bangalore,148,25.08.2020
+828,Automobile,Bangalore,89,14.08.2020
+829,Automobile,Bangalore,63,02.07.2020
+830,Agri Products,Pune,37,28.06.2020
+831,Agri Products,Bangalore,86,08.07.2020
+832,Agri Products,Kolkata,13,15.09.2020
+833,Agri Products,Mumbai,42,24.06.2020
+834,Automobile,Bangalore,149,10.08.2020
+835,Electronics,Mumbai,28,30.08.2020
+836,Construction,Bangalore,71,08.07.2020
+837,Automobile,Pune,6,30.07.2020
+838,Transport & Logistics,Mumbai,36,23.08.2020
+839,Automobile,Nashik,40,17.07.2020
+840,Textile,Nagpur,137,07.07.2020
+841,Electronics,Nashik,23,11.07.2020
+842,Transport & Logistics,Nagpur,2,06.07.2020
+843,Agri Products,Pune,26,01.08.2020
+844,Transport & Logistics,Kolkata,95,16.08.2020
+845,Agri Products,Pune,46,02.08.2020
+846,Construction,Kolkata,124,24.06.2020
+847,Automobile,Mumbai,40,15.07.2020
+848,Automobile,Nashik,60,31.07.2020
+849,Agri Products,Pune,24,04.09.2020
+850,Electronics,Bangalore,141,23.06.2020
+851,Textile,Mumbai,100,26.06.2020
+852,Textile,Kolkata,121,07.09.2020
+853,Agri Products,Bangalore,66,12.08.2020
+854,Construction,Nashik,57,17.08.2020
+855,Electronics,Kolkata,72,30.06.2020
+856,Agri Products,Nashik,7,17.08.2020
+857,Agri Products,Nagpur,2,10.07.2020
+858,Transport & Logistics,Nashik,141,12.09.2020
+859,Agri Products,Bangalore,91,08.08.2020
+860,Transport & Logistics,Kolkata,90,22.06.2020
+861,Electronics,Bangalore,74,25.07.2020
+862,Textile,Nagpur,132,26.06.2020
+863,Electronics,Pune,74,16.08.2020
+864,Textile,Bangalore,135,07.09.2020
+865,Construction,Nagpur,60,21.07.2020
+866,Automobile,Kolkata,34,28.07.2020
+867,Electronics,Pune,93,31.07.2020
+868,Textile,Nashik,33,23.07.2020
+869,Construction,Kolkata,132,04.09.2020
+870,Transport & Logistics,Bangalore,1,28.08.2020
+871,Agri Products,Mumbai,135,01.09.2020
+872,Construction,Bangalore,36,30.07.2020
+873,Electronics,Nagpur,38,15.07.2020
+874,Agri Products,Bangalore,51,21.08.2020
+875,Transport & Logistics,Kolkata,135,02.09.2020
+876,Automobile,Mumbai,22,07.08.2020
+877,Transport & Logistics,Pune,78,01.08.2020
+878,Automobile,Bangalore,49,30.07.2020
+879,Agri Products,Kolkata,40,17.08.2020
+880,Automobile,Nagpur,28,15.07.2020
+881,Transport & Logistics,Nashik,49,24.08.2020
+882,Agri Products,Bangalore,40,31.07.2020
+883,Transport & Logistics,Nagpur,13,02.09.2020
+884,Electronics,Nagpur,85,04.09.2020
+885,Automobile,Nashik,107,28.06.2020
+886,Electronics,Bangalore,145,26.07.2020
+887,Automobile,Bangalore,66,01.09.2020
+888,Construction,Kolkata,64,26.06.2020
+889,Transport & Logistics,Nashik,79,08.08.2020
+890,Construction,Pune,147,16.09.2020
+891,Agri Products,Bangalore,18,16.09.2020
+892,Electronics,Nashik,140,11.09.2020
+893,Electronics,Pune,105,07.09.2020
+894,Textile,Nagpur,132,28.07.2020
+895,Automobile,Kolkata,91,02.07.2020
+896,Transport & Logistics,Nagpur,104,13.09.2020
+897,Transport & Logistics,Nashik,142,23.08.2020
+898,Textile,Nagpur,3,01.07.2020
+899,Transport & Logistics,Mumbai,97,05.08.2020
+900,Electronics,Nagpur,60,09.09.2020
+901,Electronics,Nashik,74,29.07.2020
+902,Electronics,Nagpur,65,20.06.2020
+903,Construction,Nagpur,56,02.07.2020
+904,Construction,Mumbai,26,11.09.2020
+905,Automobile,Pune,108,14.08.2020
+906,Transport & Logistics,Kolkata,54,07.09.2020
+907,Textile,Bangalore,35,04.09.2020
+908,Agri Products,Kolkata,75,11.09.2020
+909,Textile,Kolkata,83,18.07.2020
+910,Electronics,Mumbai,66,09.07.2020
+911,Agri Products,Bangalore,116,10.08.2020
+912,Construction,Pune,108,12.08.2020
+913,Agri Products,Nashik,49,03.08.2020
+914,Automobile,Kolkata,125,14.07.2020
+915,Agri Products,Pune,54,24.07.2020
+916,Automobile,Mumbai,81,01.07.2020
+917,Agri Products,Nashik,103,16.08.2020
+918,Construction,Pune,28,18.09.2020
+919,Construction,Nashik,9,13.07.2020
+920,Textile,Kolkata,45,22.08.2020
+921,Textile,Pune,71,25.08.2020
+922,Electronics,Mumbai,128,30.08.2020
+923,Automobile,Kolkata,146,18.07.2020
+924,Electronics,Pune,11,17.09.2020
+925,Agri Products,Nagpur,131,03.08.2020
+926,Construction,Nagpur,82,21.08.2020
+927,Automobile,Bangalore,147,24.06.2020
+928,Electronics,Mumbai,120,17.09.2020
+929,Textile,Kolkata,89,15.07.2020
+930,Electronics,Kolkata,3,11.07.2020
+931,Automobile,Mumbai,23,15.09.2020
+932,Electronics,Nashik,98,17.09.2020
+933,Construction,Mumbai,116,08.08.2020
+934,Automobile,Pune,1,09.08.2020
+935,Construction,Mumbai,25,02.08.2020
+936,Automobile,Bangalore,79,05.08.2020
+937,Textile,Bangalore,143,08.07.2020
+938,Electronics,Nashik,139,03.09.2020
+939,Transport & Logistics,Pune,102,22.08.2020
+940,Electronics,Nagpur,85,15.09.2020
+941,Electronics,Pune,67,17.09.2020
+942,Transport & Logistics,Pune,107,02.09.2020
+943,Transport & Logistics,Nagpur,104,07.09.2020
+944,Textile,Bangalore,26,01.08.2020
+945,Electronics,Mumbai,2,29.06.2020
+946,Automobile,Pune,3,29.07.2020
+947,Agri Products,Mumbai,28,12.08.2020
+948,Automobile,Kolkata,149,23.08.2020
+949,Construction,Bangalore,77,29.06.2020
+950,Agri Products,Nashik,13,24.08.2020
+951,Transport & Logistics,Bangalore,108,16.09.2020
+952,Textile,Pune,22,09.07.2020
+953,Transport & Logistics,Pune,144,25.06.2020
+954,Transport & Logistics,Nagpur,85,26.07.2020
+955,Transport & Logistics,Mumbai,4,15.07.2020
+956,Agri Products,Bangalore,2,12.09.2020
+957,Automobile,Nagpur,90,11.07.2020
+958,Textile,Pune,142,29.07.2020
+959,Transport & Logistics,Kolkata,51,19.07.2020
+960,Automobile,Mumbai,101,27.08.2020
+961,Transport & Logistics,Bangalore,140,28.08.2020
+962,Electronics,Pune,150,01.09.2020
+963,Electronics,Bangalore,119,15.08.2020
+964,Construction,Pune,144,04.07.2020
+965,Construction,Pune,13,08.08.2020
+966,Transport & Logistics,Kolkata,141,11.07.2020
+967,Construction,Pune,132,12.09.2020
+968,Transport & Logistics,Nashik,134,23.06.2020
+969,Electronics,Pune,18,27.06.2020
+970,Electronics,Mumbai,13,08.08.2020
+971,Textile,Mumbai,106,27.08.2020
+972,Electronics,Pune,10,15.09.2020
+973,Agri Products,Kolkata,8,02.08.2020
+974,Construction,Mumbai,108,25.08.2020
+975,Textile,Nagpur,123,20.08.2020
+976,Transport & Logistics,Nagpur,150,02.08.2020
+977,Transport & Logistics,Pune,131,09.07.2020
+978,Automobile,Pune,21,21.08.2020
+979,Agri Products,Kolkata,28,27.08.2020
+980,Transport & Logistics,Pune,148,11.07.2020
+981,Electronics,Mumbai,81,22.06.2020
+982,Construction,Kolkata,82,07.09.2020
+983,Automobile,Bangalore,57,09.08.2020
+984,Construction,Nagpur,111,20.06.2020
+985,Electronics,Bangalore,85,13.09.2020
+986,Transport & Logistics,Pune,150,17.07.2020
+987,Transport & Logistics,Mumbai,23,23.06.2020
+988,Transport & Logistics,Mumbai,84,23.08.2020
+989,Construction,Bangalore,61,16.07.2020
+990,Electronics,Mumbai,87,16.08.2020
+991,Transport & Logistics,Nagpur,120,21.07.2020
+992,Automobile,Mumbai,49,24.06.2020
+993,Textile,Bangalore,146,26.07.2020
+994,Automobile,Nagpur,112,22.07.2020
+995,Textile,Bangalore,116,16.07.2020
+996,Electronics,Bangalore,40,04.09.2020
+997,Transport & Logistics,Nagpur,137,07.09.2020
+998,Transport & Logistics,Nagpur,50,12.08.2020
+999,Construction,Nashik,50,10.07.2020
+1000,Transport & Logistics,Mumbai,52,19.07.2020

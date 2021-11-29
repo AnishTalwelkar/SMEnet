@@ -1,0 +1,1001 @@
+H_id,Company Name,Sector,Location,No. of employees required,Years in the industry,Ready to help?,Start date,End date
+1,Rhybox,Engineering,Nagpur,26,5,No,14/04/2020,14/10/2020
+2,Dazzlesphere,Health and beauty,Thane,43,7,Yes,27/01/2021,15/05/2020
+3,Youtags,Food and restaurant,Nashik,25,2,Yes,01/01/2021,24/07/2021
+4,Browsedrive,Automotive Repair,Nagpur,54,7,No,03/05/2021,19/06/2020
+5,Eare,Retail,Nashik,30,11,Yes,05/06/2020,26/05/2020
+6,Bubblemix,Retail,Pune,42,2,Yes,08/05/2021,13/05/2020
+7,Jaxspan,Retail,Nashik,23,4,Yes,16/12/2020,11/04/2020
+8,Thoughtworks,Retail,Nashik,22,19,Yes,09/12/2020,16/12/2020
+9,Trilia,Automotive Repair,Thane,60,14,Yes,03/04/2020,11/08/2021
+10,Flashdog,Retail,Thane,25,17,Yes,17/05/2021,31/05/2021
+11,Yoveo,Retail,Thane,65,13,Yes,21/06/2021,13/06/2021
+12,Ailane,Automotive Repair,Pune,83,13,No,28/12/2020,22/07/2021
+13,Ainyx,Food and restaurant,Mumbai,68,11,No,29/11/2020,07/10/2020
+14,Youfeed,Fabrication,Nagpur,99,20,Yes,13/06/2020,14/04/2021
+15,Kwilith,Fabrication,Pune,56,3,Yes,21/06/2021,02/02/2021
+16,Ailane,Engineering,Nashik,93,4,No,07/11/2020,12/04/2021
+17,Snaptags,Health and beauty,Nashik,25,19,Yes,19/06/2021,08/06/2020
+18,Bluejam,Health and beauty,Nagpur,88,1,Yes,23/01/2021,28/05/2021
+19,Browseblab,Fabrication,Nagpur,89,3,Yes,28/03/2020,05/03/2021
+20,Snaptags,Engineering,Nagpur,91,14,No,29/01/2021,30/04/2020
+21,Skajo,Fabrication,Nashik,67,17,Yes,03/04/2021,16/03/2021
+22,Topicblab,Food and restaurant,Pune,54,5,No,19/06/2021,16/10/2020
+23,Zoombox,Retail,Thane,71,17,Yes,21/06/2021,19/11/2020
+24,Trudeo,Automotive Repair,Nagpur,36,11,No,25/04/2020,08/06/2020
+25,Skaboo,Engineering,Thane,86,20,No,12/07/2020,07/07/2020
+26,Babbleblab,Health and beauty,Nagpur,40,11,No,18/01/2021,04/03/2021
+27,Babbleblab,Engineering,Thane,39,16,Yes,28/02/2021,21/11/2020
+28,Chatterpoint,Retail,Pune,36,14,Yes,24/12/2020,10/10/2020
+29,Mita,Fabrication,Nashik,82,1,Yes,02/05/2021,13/04/2020
+30,Voonte,Retail,Nashik,21,14,Yes,14/05/2020,05/10/2020
+31,Trilith,Engineering,Nashik,82,2,Yes,09/12/2020,18/07/2020
+32,Gabcube,Automotive Repair,Nagpur,39,2,No,17/07/2020,08/07/2020
+33,Lazz,Fabrication,Thane,87,9,Yes,10/04/2021,21/04/2020
+34,Devbug,Food and restaurant,Nagpur,88,13,Yes,15/04/2020,23/06/2021
+35,Realblab,Retail,Mumbai,24,11,Yes,13/09/2020,31/03/2021
+36,Twitternation,Retail,Nashik,85,5,No,07/08/2020,01/03/2021
+37,Skinte,Automotive Repair,Nashik,55,18,No,13/07/2020,13/03/2021
+38,Skyba,Retail,Thane,75,2,No,27/11/2020,19/09/2020
+39,Photofeed,Retail,Pune,64,15,Yes,09/10/2020,29/08/2021
+40,Jaxbean,Automotive Repair,Nashik,27,3,No,08/12/2020,03/03/2021
+41,Photofeed,Automotive Repair,Mumbai,73,10,Yes,20/06/2021,21/02/2021
+42,Thoughtstorm,Automotive Repair,Nashik,76,16,Yes,21/03/2021,01/07/2020
+43,Einti,Retail,Nashik,85,2,No,23/04/2020,06/10/2020
+44,Gabspot,Retail,Thane,77,5,Yes,23/06/2021,02/06/2021
+45,Fivechat,Retail,Nashik,95,1,No,22/08/2020,24/05/2021
+46,Avamm,Health and beauty,Nashik,50,12,Yes,11/09/2020,04/08/2021
+47,Gigabox,Automotive Repair,Nashik,46,3,Yes,13/12/2020,02/07/2020
+48,Jaxworks,Automotive Repair,Nashik,66,9,Yes,15/03/2021,01/10/2020
+49,Agivu,Health and beauty,Nagpur,39,19,Yes,13/06/2020,11/02/2021
+50,Wikizz,Health and beauty,Nagpur,90,3,Yes,25/12/2020,25/07/2021
+51,Zoombeat,Retail,Nashik,46,14,Yes,29/04/2020,01/09/2020
+52,Rhyloo,Engineering,Nashik,91,10,Yes,18/05/2020,28/07/2020
+53,Pixoboo,Retail,Thane,63,10,Yes,01/03/2021,23/10/2020
+54,Wikivu,Retail,Pune,49,3,No,01/01/2021,19/05/2020
+55,Oyonder,Retail,Mumbai,81,4,Yes,21/06/2020,07/07/2020
+56,Gevee,Health and beauty,Nashik,96,15,Yes,20/02/2021,20/03/2021
+57,Abatz,Automotive Repair,Nagpur,54,3,Yes,27/05/2021,18/06/2021
+58,Youbridge,Engineering,Pune,33,16,Yes,10/10/2020,07/03/2021
+59,Zoomcast,Fabrication,Nagpur,80,13,No,12/03/2020,10/08/2021
+60,Lazz,Health and beauty,Mumbai,87,3,Yes,15/05/2020,09/02/2021
+61,Quinu,Automotive Repair,Nashik,59,5,Yes,03/08/2020,06/01/2021
+62,Feedspan,Health and beauty,Nagpur,38,8,Yes,24/11/2020,20/04/2020
+63,Oyoloo,Automotive Repair,Nagpur,27,19,No,28/05/2021,15/09/2020
+64,Wikizz,Fabrication,Nagpur,22,5,Yes,11/10/2020,18/05/2021
+65,Quinu,Health and beauty,Nashik,43,14,No,28/12/2020,06/01/2021
+66,Eare,Food and restaurant,Nagpur,69,1,Yes,05/07/2020,30/07/2021
+67,Flipopia,Food and restaurant,Nashik,56,13,No,18/09/2020,11/03/2021
+68,Tambee,Fabrication,Nashik,36,13,No,19/06/2020,28/04/2021
+69,BlogXS,Fabrication,Nagpur,95,18,Yes,02/10/2020,23/08/2020
+70,Eire,Fabrication,Pune,43,16,No,16/04/2021,18/06/2021
+71,Skinder,Automotive Repair,Thane,66,6,No,18/03/2021,11/03/2021
+72,Pixope,Retail,Pune,62,18,No,02/12/2020,31/07/2021
+73,Tagfeed,Health and beauty,Nashik,99,6,No,08/01/2021,29/05/2021
+74,Brightdog,Retail,Nashik,58,4,Yes,23/04/2021,14/08/2020
+75,Jabbertype,Retail,Pune,23,20,Yes,28/10/2020,09/07/2020
+76,Topicblab,Automotive Repair,Thane,85,17,Yes,16/06/2021,24/04/2020
+77,Babbleopia,Food and restaurant,Mumbai,56,18,No,30/03/2020,14/07/2021
+78,Wikivu,Automotive Repair,Nashik,37,17,Yes,30/01/2021,16/08/2021
+79,Kamba,Automotive Repair,Nagpur,65,5,No,11/08/2020,15/12/2020
+80,Skidoo,Engineering,Nashik,42,19,Yes,16/11/2020,19/01/2021
+81,Brightbean,Food and restaurant,Nashik,62,1,Yes,13/05/2021,22/06/2020
+82,Skiba,Automotive Repair,Thane,31,4,Yes,24/06/2021,18/04/2020
+83,Plajo,Engineering,Nagpur,28,14,No,31/03/2020,20/11/2020
+84,Fadeo,Fabrication,Nagpur,70,12,Yes,04/10/2020,14/12/2020
+85,Edgewire,Automotive Repair,Pune,81,13,Yes,14/06/2021,03/05/2021
+86,Ntags,Engineering,Nashik,96,15,Yes,12/03/2021,03/06/2020
+87,Eamia,Food and restaurant,Nagpur,48,17,No,26/10/2020,13/06/2021
+88,Trunyx,Food and restaurant,Thane,96,20,No,22/02/2021,17/02/2021
+89,Tambee,Automotive Repair,Nagpur,88,1,Yes,27/08/2020,01/07/2021
+90,Thoughtstorm,Retail,Nagpur,83,5,No,22/03/2020,25/12/2020
+91,Riffpedia,Automotive Repair,Nashik,52,12,Yes,03/05/2021,23/07/2021
+92,Lazzy,Engineering,Nashik,22,16,Yes,21/12/2020,14/06/2020
+93,Vipe,Engineering,Thane,92,16,Yes,27/07/2020,19/08/2020
+94,Divape,Health and beauty,Nashik,28,8,Yes,13/06/2021,08/05/2021
+95,Wikibox,Retail,Pune,21,14,No,07/07/2020,07/01/2021
+96,Zoomdog,Automotive Repair,Nashik,82,16,Yes,05/10/2020,31/07/2021
+97,Twimm,Food and restaurant,Nagpur,48,2,No,09/11/2020,29/05/2021
+98,Zoombeat,Food and restaurant,Nagpur,83,16,Yes,19/03/2021,23/07/2021
+99,Topicware,Fabrication,Mumbai,42,13,Yes,21/06/2021,10/01/2021
+100,Zoomdog,Automotive Repair,Nashik,50,17,Yes,05/07/2020,12/11/2020
+101,Yozio,Engineering,Nashik,99,15,Yes,11/03/2021,21/04/2020
+102,Wordtune,Fabrication,Pune,51,13,Yes,27/09/2020,26/08/2021
+103,Fivechat,Retail,Nagpur,40,9,Yes,31/12/2020,09/03/2021
+104,Voomm,Food and restaurant,Nagpur,25,13,Yes,01/10/2020,03/05/2020
+105,Layo,Automotive Repair,Pune,33,7,Yes,24/03/2020,29/03/2021
+106,Fivebridge,Retail,Nagpur,55,4,Yes,08/07/2020,17/08/2020
+107,Yombu,Retail,Nashik,65,4,No,23/04/2021,15/07/2020
+108,Oyoba,Food and restaurant,Mumbai,95,9,Yes,17/02/2021,25/05/2021
+109,Meeveo,Retail,Nagpur,35,20,No,23/11/2020,06/01/2021
+110,Mita,Automotive Repair,Nagpur,77,5,No,16/09/2020,10/08/2021
+111,Talane,Retail,Nagpur,28,12,Yes,03/12/2020,31/05/2021
+112,Demizz,Automotive Repair,Pune,55,13,Yes,01/09/2020,11/07/2020
+113,Kazu,Automotive Repair,Nagpur,81,5,Yes,11/11/2020,04/04/2020
+114,Dynava,Food and restaurant,Nagpur,56,3,Yes,29/09/2020,15/05/2020
+115,Twitternation,Engineering,Nagpur,68,15,Yes,16/05/2021,12/08/2021
+116,Photofeed,Automotive Repair,Pune,71,17,Yes,25/06/2021,18/01/2021
+117,Flashset,Automotive Repair,Pune,85,20,Yes,26/03/2021,22/10/2020
+118,Skidoo,Health and beauty,Pune,45,19,No,10/03/2021,22/07/2020
+119,Centizu,Retail,Pune,84,5,No,18/06/2021,11/05/2021
+120,Tagopia,Retail,Mumbai,74,18,Yes,07/02/2021,24/04/2020
+121,Skyble,Food and restaurant,Thane,42,18,No,13/06/2021,14/04/2021
+122,Oba,Fabrication,Nagpur,88,6,Yes,10/04/2021,29/05/2020
+123,Bubblebox,Retail,Nagpur,36,18,No,19/09/2020,16/07/2020
+124,Quinu,Engineering,Pune,55,8,Yes,09/06/2021,26/08/2021
+125,Jazzy,Retail,Nashik,88,11,Yes,25/07/2020,26/04/2020
+126,LiveZ,Food and restaurant,Pune,69,3,Yes,29/12/2020,07/07/2021
+127,Feedspan,Automotive Repair,Nashik,25,13,Yes,01/06/2021,15/09/2020
+128,Zoombox,Automotive Repair,Nashik,34,7,Yes,09/02/2021,30/06/2021
+129,Oyoyo,Engineering,Nagpur,29,18,Yes,12/03/2020,25/05/2021
+130,Jabbersphere,Fabrication,Mumbai,35,11,Yes,09/11/2020,11/09/2020
+131,Shuffledrive,Health and beauty,Nashik,26,4,Yes,04/01/2021,09/07/2020
+132,Wordtune,Food and restaurant,Nashik,34,9,Yes,25/04/2020,05/04/2021
+133,Voomm,Automotive Repair,Thane,61,15,Yes,13/03/2021,05/12/2020
+134,Babblestorm,Engineering,Nagpur,48,18,Yes,08/11/2020,10/09/2020
+135,Quimba,Retail,Pune,74,14,Yes,08/06/2020,13/01/2021
+136,Mycat,Retail,Nagpur,27,15,No,17/06/2021,07/06/2021
+137,Linklinks,Health and beauty,Pune,66,5,No,07/09/2020,25/05/2020
+138,Demizz,Food and restaurant,Nagpur,93,1,Yes,25/09/2020,22/10/2020
+139,Centimia,Food and restaurant,Nashik,44,9,Yes,03/11/2020,30/01/2021
+140,Bluezoom,Engineering,Nashik,82,12,No,18/06/2021,23/07/2021
+141,Jabberbean,Engineering,Nagpur,47,18,Yes,24/03/2020,16/08/2021
+142,Mydo,Automotive Repair,Nagpur,47,10,Yes,06/05/2021,20/09/2020
+143,Aimbu,Health and beauty,Nashik,61,3,No,03/03/2020,05/07/2021
+144,Skippad,Retail,Thane,80,18,No,13/10/2020,24/07/2020
+145,Vinder,Retail,Nagpur,91,11,Yes,13/08/2020,26/06/2020
+146,Twitterlist,Health and beauty,Mumbai,55,2,Yes,13/11/2020,17/07/2021
+147,LiveZ,Retail,Mumbai,66,14,Yes,20/05/2021,27/06/2021
+148,Twimm,Automotive Repair,Nagpur,83,2,Yes,03/03/2020,12/08/2021
+149,Brightbean,Food and restaurant,Thane,20,5,Yes,14/03/2020,17/08/2020
+150,Yabox,Health and beauty,Nashik,95,3,Yes,03/12/2020,13/06/2020
+151,Dabshots,Retail,Nashik,91,14,Yes,07/09/2020,01/05/2020
+152,Vidoo,Food and restaurant,Thane,52,17,Yes,05/06/2021,23/06/2020
+153,Minyx,Fabrication,Nashik,59,1,Yes,03/06/2020,28/05/2020
+154,Gigaclub,Health and beauty,Nagpur,33,5,Yes,04/06/2021,11/05/2021
+155,Feedbug,Retail,Nagpur,54,15,Yes,10/02/2021,12/06/2021
+156,Skyndu,Retail,Nagpur,99,5,Yes,12/06/2021,07/07/2020
+157,Jabberbean,Automotive Repair,Nashik,27,15,Yes,01/08/2020,17/09/2020
+158,Aimbo,Retail,Nagpur,27,20,No,01/04/2020,20/10/2020
+159,Jetpulse,Automotive Repair,Nagpur,44,2,No,10/12/2020,22/08/2021
+160,Jabbersphere,Health and beauty,Nashik,21,19,Yes,16/05/2020,01/01/2021
+161,Zazio,Automotive Repair,Nashik,43,9,Yes,25/01/2021,23/08/2021
+162,Aibox,Food and restaurant,Thane,34,6,Yes,22/04/2020,08/08/2021
+163,Pixonyx,Food and restaurant,Thane,20,7,Yes,16/04/2021,18/08/2021
+164,Chatterbridge,Retail,Nagpur,26,17,No,14/07/2020,05/11/2020
+165,Plajo,Retail,Thane,26,5,Yes,30/01/2021,21/07/2020
+166,Meedoo,Fabrication,Nashik,31,19,Yes,26/06/2021,13/01/2021
+167,Dynabox,Health and beauty,Pune,45,6,Yes,06/04/2021,29/04/2020
+168,Topicware,Automotive Repair,Nashik,67,15,Yes,13/08/2020,12/04/2020
+169,Jatri,Health and beauty,Nagpur,37,19,Yes,19/03/2020,28/06/2021
+170,Vinder,Retail,Pune,52,8,Yes,20/09/2020,22/09/2020
+171,Jabberstorm,Food and restaurant,Nashik,35,15,Yes,12/05/2021,29/01/2021
+172,Tagpad,Retail,Thane,65,12,Yes,28/11/2020,10/03/2021
+173,Kwideo,Food and restaurant,Nashik,79,9,Yes,22/05/2020,24/12/2020
+174,Yakijo,Automotive Repair,Pune,84,16,No,09/03/2020,05/02/2021
+175,Quamba,Retail,Mumbai,54,3,No,24/04/2021,12/08/2020
+176,Photojam,Health and beauty,Nashik,72,8,No,14/11/2020,10/08/2020
+177,Pixope,Health and beauty,Pune,24,6,No,04/04/2020,14/08/2021
+178,Teklist,Engineering,Pune,59,12,Yes,28/12/2020,10/03/2021
+179,Npath,Retail,Thane,88,7,Yes,22/11/2020,09/12/2020
+180,Thoughtbridge,Retail,Nashik,59,12,Yes,15/05/2020,07/02/2021
+181,Innojam,Automotive Repair,Pune,88,18,Yes,11/12/2020,03/11/2020
+182,Wordpedia,Fabrication,Nashik,99,14,No,28/02/2021,21/01/2021
+183,Mynte,Food and restaurant,Pune,81,5,No,09/05/2021,24/08/2020
+184,Shufflester,Retail,Mumbai,40,5,Yes,18/02/2021,27/08/2021
+185,Vidoo,Retail,Mumbai,49,19,Yes,16/02/2021,30/07/2020
+186,Miboo,Fabrication,Pune,35,7,No,14/07/2020,25/02/2021
+187,Jayo,Food and restaurant,Pune,80,2,Yes,14/03/2021,15/06/2021
+188,Thoughtsphere,Engineering,Nagpur,41,5,Yes,18/05/2021,19/09/2020
+189,Kanoodle,Fabrication,Nagpur,24,16,Yes,26/07/2020,28/11/2020
+190,Quire,Automotive Repair,Nashik,67,19,Yes,28/06/2020,13/07/2020
+191,Gigazoom,Retail,Mumbai,23,13,Yes,22/08/2020,11/08/2020
+192,Yata,Fabrication,Pune,51,16,No,30/01/2021,04/07/2021
+193,Brightbean,Automotive Repair,Pune,37,4,Yes,28/09/2020,30/11/2020
+194,Blogtags,Food and restaurant,Nashik,100,11,Yes,08/09/2020,19/10/2020
+195,Topicstorm,Retail,Thane,41,15,Yes,17/03/2021,29/04/2021
+196,Oba,Engineering,Nashik,45,16,Yes,04/01/2021,03/04/2020
+197,Vinte,Health and beauty,Nashik,76,16,Yes,11/05/2020,23/06/2021
+198,Blogtags,Retail,Pune,24,10,Yes,24/06/2021,19/08/2021
+199,Divanoodle,Fabrication,Mumbai,91,7,Yes,07/04/2021,03/05/2021
+200,Oyondu,Fabrication,Nashik,81,3,No,23/05/2020,16/04/2020
+201,Npath,Automotive Repair,Thane,28,17,Yes,09/05/2020,15/04/2020
+202,Fanoodle,Automotive Repair,Nagpur,47,12,Yes,27/06/2020,29/11/2020
+203,Dabjam,Health and beauty,Thane,23,18,Yes,23/11/2020,24/06/2020
+204,Mudo,Food and restaurant,Nashik,68,18,Yes,28/03/2020,23/01/2021
+205,Skippad,Retail,Nashik,32,16,Yes,23/09/2020,19/08/2021
+206,Yacero,Fabrication,Nagpur,57,13,No,20/12/2020,08/10/2020
+207,Midel,Engineering,Nagpur,41,1,No,27/07/2020,06/02/2021
+208,Photobean,Fabrication,Nashik,49,9,Yes,02/11/2020,26/04/2020
+209,Fivebridge,Retail,Nashik,80,6,Yes,01/12/2020,22/04/2021
+210,Oozz,Automotive Repair,Pune,90,3,Yes,31/08/2020,22/03/2021
+211,Leexo,Retail,Nashik,99,10,No,23/06/2021,16/10/2020
+212,Quatz,Food and restaurant,Mumbai,49,4,Yes,30/12/2020,09/08/2020
+213,Skiba,Retail,Thane,100,3,No,14/11/2020,11/10/2020
+214,Gabspot,Automotive Repair,Thane,94,4,No,20/12/2020,01/03/2021
+215,Jayo,Engineering,Nashik,33,15,Yes,05/06/2020,09/04/2021
+216,Twimbo,Food and restaurant,Nagpur,46,6,No,08/03/2020,02/09/2020
+217,Youopia,Retail,Thane,100,19,No,20/07/2020,24/03/2021
+218,Bubblemix,Automotive Repair,Mumbai,21,20,Yes,15/04/2020,21/07/2021
+219,Photospace,Automotive Repair,Nagpur,97,4,No,18/08/2020,20/07/2020
+220,Vimbo,Retail,Mumbai,97,16,Yes,13/03/2021,25/02/2021
+221,Jayo,Automotive Repair,Nashik,90,1,Yes,03/04/2021,27/11/2020
+222,Meezzy,Retail,Nagpur,68,19,Yes,21/04/2020,17/03/2021
+223,Eire,Automotive Repair,Nagpur,37,13,Yes,10/11/2020,28/06/2021
+224,Photofeed,Food and restaurant,Nagpur,100,3,Yes,04/06/2020,08/11/2020
+225,Zazio,Automotive Repair,Thane,98,20,Yes,02/09/2020,22/06/2021
+226,Voolith,Food and restaurant,Nagpur,21,7,Yes,14/05/2020,12/10/2020
+227,Fivespan,Health and beauty,Nashik,50,18,Yes,15/05/2021,18/09/2020
+228,Centidel,Retail,Nashik,73,12,Yes,09/10/2020,14/01/2021
+229,Gevee,Fabrication,Mumbai,67,18,No,21/08/2020,30/08/2021
+230,Gabvine,Health and beauty,Mumbai,29,13,Yes,17/06/2020,11/04/2021
+231,Skynoodle,Food and restaurant,Mumbai,60,1,Yes,07/11/2020,06/01/2021
+232,Photobean,Health and beauty,Nashik,83,6,Yes,03/01/2021,15/07/2020
+233,Avavee,Food and restaurant,Mumbai,50,17,No,30/04/2021,19/12/2020
+234,Ainyx,Food and restaurant,Nashik,68,1,Yes,21/10/2020,23/03/2021
+235,Wikibox,Automotive Repair,Nashik,98,8,No,22/06/2021,30/04/2020
+236,Dynabox,Retail,Pune,94,12,Yes,30/07/2020,12/04/2020
+237,Skilith,Retail,Nagpur,30,8,Yes,21/04/2021,12/01/2021
+238,Jaxspan,Health and beauty,Thane,21,9,Yes,14/03/2021,09/02/2021
+239,Feedbug,Engineering,Mumbai,21,5,No,12/08/2020,12/11/2020
+240,Yamia,Retail,Thane,92,9,No,04/06/2021,17/06/2020
+241,Dynabox,Food and restaurant,Thane,42,13,Yes,07/05/2021,05/07/2020
+242,Linktype,Engineering,Mumbai,78,18,Yes,06/04/2021,05/04/2021
+243,Tagchat,Automotive Repair,Nagpur,90,18,No,05/06/2020,22/06/2021
+244,Kwimbee,Retail,Mumbai,48,16,Yes,09/02/2021,18/08/2021
+245,Fatz,Automotive Repair,Nashik,27,2,Yes,27/11/2020,08/04/2021
+246,Jaloo,Engineering,Mumbai,21,6,Yes,12/01/2021,24/07/2020
+247,Digitube,Food and restaurant,Nagpur,99,6,No,19/04/2020,01/06/2020
+248,Quatz,Fabrication,Thane,39,4,Yes,24/06/2020,20/06/2020
+249,Skimia,Automotive Repair,Nashik,42,15,Yes,27/10/2020,19/07/2021
+250,Flipopia,Fabrication,Nagpur,70,14,No,10/09/2020,26/08/2021
+251,Kimia,Health and beauty,Nagpur,69,7,Yes,23/12/2020,28/08/2020
+252,Kimia,Fabrication,Mumbai,76,18,Yes,27/03/2021,30/08/2020
+253,Jabbersphere,Retail,Nagpur,28,15,No,26/06/2020,27/09/2020
+254,BlogXS,Engineering,Nashik,69,3,Yes,05/08/2020,03/10/2020
+255,Tazzy,Automotive Repair,Nashik,74,6,Yes,02/09/2020,25/11/2020
+256,Rhynyx,Retail,Nashik,36,13,Yes,13/09/2020,12/02/2021
+257,Bubbletube,Engineering,Nagpur,57,4,Yes,09/06/2021,02/07/2020
+258,Mynte,Fabrication,Mumbai,64,9,No,29/03/2020,03/08/2020
+259,Zoonoodle,Automotive Repair,Pune,51,20,No,11/05/2020,28/09/2020
+260,Voonix,Automotive Repair,Nashik,45,10,No,07/03/2021,17/11/2020
+261,Meedoo,Health and beauty,Nashik,86,5,Yes,15/08/2020,01/04/2020
+262,Avamm,Health and beauty,Nagpur,72,13,Yes,01/01/2021,14/08/2021
+263,Lazz,Food and restaurant,Nagpur,75,1,Yes,03/03/2020,17/07/2021
+264,Voomm,Food and restaurant,Nashik,73,11,No,10/11/2020,16/08/2021
+265,Yoveo,Engineering,Nashik,57,17,Yes,14/06/2020,21/09/2020
+266,Photolist,Fabrication,Mumbai,100,8,No,14/08/2020,13/09/2020
+267,Jetwire,Retail,Mumbai,34,18,Yes,03/02/2021,11/04/2020
+268,Dabshots,Retail,Pune,59,2,Yes,14/03/2020,03/04/2021
+269,Vidoo,Fabrication,Pune,86,3,Yes,17/12/2020,28/03/2021
+270,Feedspan,Retail,Nagpur,93,19,No,10/10/2020,16/01/2021
+271,Dynazzy,Food and restaurant,Nashik,37,4,No,16/08/2020,15/07/2021
+272,Wordpedia,Health and beauty,Thane,85,14,No,01/03/2020,06/07/2020
+273,Lazzy,Automotive Repair,Mumbai,26,9,Yes,17/08/2020,07/07/2020
+274,Oyope,Retail,Nashik,83,14,No,11/05/2020,18/12/2020
+275,Photofeed,Automotive Repair,Nagpur,59,4,Yes,19/11/2020,13/07/2020
+276,Photobug,Fabrication,Nagpur,97,12,Yes,25/07/2020,19/01/2021
+277,Gigabox,Food and restaurant,Nagpur,69,13,No,03/01/2021,27/04/2020
+278,Photospace,Automotive Repair,Pune,36,19,Yes,30/09/2020,05/12/2020
+279,Topiczoom,Food and restaurant,Nagpur,31,8,No,01/03/2021,10/07/2021
+280,Jetpulse,Retail,Nagpur,81,6,Yes,30/05/2021,29/05/2020
+281,Leexo,Engineering,Nagpur,25,10,No,05/03/2021,08/10/2020
+282,Topicblab,Retail,Mumbai,42,15,Yes,21/02/2021,05/08/2021
+283,Pixope,Automotive Repair,Nagpur,28,17,Yes,13/06/2020,03/03/2021
+284,Trilith,Food and restaurant,Nashik,74,3,Yes,13/07/2020,02/11/2020
+285,Buzzdog,Retail,Nashik,91,20,Yes,12/03/2020,28/02/2021
+286,Dabjam,Fabrication,Nashik,51,12,Yes,01/02/2021,18/06/2020
+287,Skippad,Automotive Repair,Nagpur,71,5,No,31/08/2020,16/09/2020
+288,Devify,Fabrication,Nashik,97,4,No,10/09/2020,06/10/2020
+289,Photobug,Fabrication,Nagpur,62,4,Yes,09/03/2021,10/10/2020
+290,Buzzdog,Engineering,Pune,42,3,No,18/11/2020,16/05/2021
+291,Podcat,Fabrication,Pune,76,8,Yes,11/05/2020,06/06/2021
+292,Cogilith,Health and beauty,Mumbai,93,19,No,10/03/2021,15/05/2020
+293,Camido,Automotive Repair,Mumbai,70,13,No,19/06/2020,15/07/2020
+294,Flipopia,Automotive Repair,Nashik,49,14,No,17/12/2020,18/12/2020
+295,Gigazoom,Retail,Nagpur,91,12,No,17/02/2021,20/01/2021
+296,Tambee,Engineering,Pune,28,12,Yes,10/03/2021,11/04/2021
+297,Gigashots,Health and beauty,Nagpur,26,4,Yes,21/06/2021,07/03/2021
+298,Latz,Automotive Repair,Mumbai,44,3,No,18/09/2020,23/02/2021
+299,Meeveo,Automotive Repair,Nagpur,30,15,Yes,26/05/2021,18/02/2021
+300,Geba,Automotive Repair,Nagpur,38,2,Yes,11/02/2021,29/04/2021
+301,Realmix,Automotive Repair,Thane,86,14,No,26/04/2020,02/06/2020
+302,Skipstorm,Automotive Repair,Thane,81,13,Yes,11/09/2020,04/12/2020
+303,Skilith,Food and restaurant,Mumbai,82,11,Yes,22/03/2020,15/04/2021
+304,Camido,Fabrication,Nashik,89,12,Yes,04/04/2021,12/05/2021
+305,Tekfly,Retail,Nashik,49,6,No,05/10/2020,22/05/2020
+306,Flipbug,Automotive Repair,Nagpur,94,17,No,24/07/2020,16/04/2020
+307,Devpulse,Engineering,Nashik,82,18,Yes,07/03/2021,09/01/2021
+308,Tagpad,Fabrication,Mumbai,49,9,No,20/02/2021,16/01/2021
+309,Riffpath,Automotive Repair,Nashik,94,10,No,31/10/2020,05/04/2020
+310,Tagchat,Engineering,Nagpur,29,18,Yes,04/03/2021,05/03/2021
+311,Brightdog,Health and beauty,Mumbai,82,15,Yes,04/08/2020,20/12/2020
+312,Skyba,Health and beauty,Nagpur,98,6,Yes,23/07/2020,30/07/2021
+313,Kamba,Food and restaurant,Thane,65,14,Yes,25/03/2020,13/12/2020
+314,Kanoodle,Food and restaurant,Nashik,33,12,Yes,17/08/2020,10/05/2020
+315,Riffpedia,Retail,Nashik,93,6,No,21/07/2020,14/12/2020
+316,Divape,Automotive Repair,Pune,36,18,Yes,28/05/2021,07/03/2021
+317,Jabbercube,Engineering,Nagpur,80,12,Yes,15/04/2020,16/04/2021
+318,Dynabox,Retail,Thane,80,9,No,27/02/2021,21/07/2021
+319,Realcube,Engineering,Nagpur,52,6,Yes,20/09/2020,02/10/2020
+320,Dynava,Retail,Pune,46,16,No,24/07/2020,23/03/2021
+321,Divape,Fabrication,Mumbai,67,14,Yes,10/11/2020,04/04/2020
+322,Blogtags,Retail,Thane,67,17,Yes,18/03/2020,05/05/2021
+323,Vitz,Food and restaurant,Nashik,65,7,Yes,08/07/2020,19/11/2020
+324,Teklist,Automotive Repair,Nashik,41,16,Yes,04/01/2021,21/12/2020
+325,Kayveo,Retail,Mumbai,100,17,Yes,17/01/2021,12/08/2021
+326,Oyoba,Engineering,Nashik,48,2,Yes,23/08/2020,24/05/2020
+327,Wikizz,Engineering,Thane,34,20,Yes,15/04/2021,27/07/2020
+328,Twinder,Automotive Repair,Thane,55,14,Yes,20/10/2020,13/12/2020
+329,Zazio,Automotive Repair,Nashik,39,6,No,23/06/2021,24/07/2020
+330,Trupe,Automotive Repair,Nashik,87,6,Yes,14/02/2021,25/03/2021
+331,Thoughtstorm,Engineering,Thane,60,17,Yes,07/04/2021,23/07/2020
+332,Topicshots,Retail,Mumbai,68,14,Yes,12/06/2020,04/04/2021
+333,Jayo,Engineering,Nashik,73,3,Yes,21/12/2020,18/04/2021
+334,Blogtags,Food and restaurant,Nashik,89,6,Yes,09/08/2020,11/04/2021
+335,Jabberstorm,Retail,Nagpur,87,6,Yes,11/04/2021,22/12/2020
+336,Rhynoodle,Automotive Repair,Pune,42,15,No,24/04/2020,15/07/2021
+337,Viva,Retail,Nashik,68,7,No,15/08/2020,22/11/2020
+338,Kimia,Food and restaurant,Thane,68,5,Yes,25/03/2021,26/05/2020
+339,Jaloo,Automotive Repair,Thane,23,1,Yes,06/12/2020,13/06/2020
+340,Livetube,Automotive Repair,Nagpur,49,18,No,21/03/2021,09/10/2020
+341,Skivee,Fabrication,Nashik,72,12,Yes,17/09/2020,05/12/2020
+342,Skibox,Retail,Nashik,23,18,Yes,15/04/2020,20/07/2021
+343,Skidoo,Automotive Repair,Nashik,62,12,No,29/07/2020,04/02/2021
+344,Meejo,Retail,Pune,27,11,Yes,30/06/2020,26/06/2021
+345,Oyonder,Automotive Repair,Nashik,98,13,Yes,07/05/2020,29/08/2021
+346,Skimia,Automotive Repair,Nagpur,42,13,Yes,11/10/2020,27/07/2020
+347,Ooba,Health and beauty,Mumbai,100,5,Yes,09/10/2020,07/04/2020
+348,Tagopia,Fabrication,Nashik,25,2,Yes,22/06/2021,30/06/2020
+349,Omba,Automotive Repair,Mumbai,44,2,No,10/11/2020,22/07/2021
+350,Divape,Engineering,Nashik,82,16,Yes,11/04/2020,19/06/2021
+351,Youspan,Retail,Nashik,50,18,No,20/03/2021,06/03/2021
+352,Tazzy,Automotive Repair,Nashik,45,3,Yes,13/04/2020,22/06/2021
+353,Avamm,Food and restaurant,Nagpur,85,14,Yes,22/03/2021,12/11/2020
+354,Jazzy,Automotive Repair,Pune,26,17,No,03/03/2021,22/04/2020
+355,Wikizz,Food and restaurant,Mumbai,32,6,Yes,24/05/2020,16/07/2020
+356,Edgeblab,Health and beauty,Thane,29,16,No,18/11/2020,19/07/2020
+357,Mycat,Automotive Repair,Pune,82,14,No,16/10/2020,12/12/2020
+358,Mynte,Retail,Nagpur,50,1,No,05/12/2020,24/05/2021
+359,Zoozzy,Food and restaurant,Nashik,95,19,No,25/03/2020,17/08/2021
+360,Yacero,Health and beauty,Mumbai,100,12,Yes,13/09/2020,11/01/2021
+361,Npath,Engineering,Nashik,49,2,No,13/02/2021,06/07/2020
+362,Yodo,Food and restaurant,Nashik,26,1,Yes,25/11/2020,11/11/2020
+363,Kayveo,Automotive Repair,Nagpur,76,8,Yes,17/10/2020,01/10/2020
+364,Jabbersphere,Engineering,Mumbai,85,11,No,04/05/2021,14/12/2020
+365,Gabcube,Automotive Repair,Pune,75,8,No,09/02/2021,01/11/2020
+366,Meedoo,Fabrication,Nashik,88,14,Yes,05/02/2021,13/09/2020
+367,Riffpedia,Automotive Repair,Pune,32,3,Yes,18/06/2020,01/04/2020
+368,Zoovu,Fabrication,Nagpur,83,19,Yes,22/05/2021,05/08/2021
+369,Muxo,Food and restaurant,Thane,58,7,Yes,13/11/2020,10/07/2020
+370,Digitube,Health and beauty,Nashik,99,9,Yes,17/11/2020,12/06/2021
+371,Yakidoo,Retail,Nashik,30,10,Yes,22/07/2020,14/08/2021
+372,Trunyx,Health and beauty,Pune,53,6,Yes,26/02/2021,29/04/2021
+373,Camimbo,Retail,Nashik,99,4,Yes,29/05/2020,17/08/2020
+374,Youtags,Health and beauty,Pune,81,18,No,23/05/2020,12/12/2020
+375,Voonte,Automotive Repair,Nagpur,29,2,Yes,20/05/2020,18/07/2020
+376,Thoughtstorm,Fabrication,Mumbai,42,18,Yes,06/10/2020,07/10/2020
+377,Zoomzone,Fabrication,Pune,83,19,Yes,04/06/2020,02/06/2020
+378,Devpulse,Retail,Nagpur,65,9,Yes,23/09/2020,27/04/2020
+379,Jabbersphere,Automotive Repair,Nashik,33,14,Yes,24/08/2020,25/07/2020
+380,Flashset,Food and restaurant,Pune,78,11,Yes,15/03/2020,21/04/2021
+381,Zazio,Retail,Nagpur,36,1,Yes,12/04/2020,10/05/2021
+382,Youspan,Retail,Nagpur,42,13,Yes,23/06/2021,16/07/2020
+383,Tambee,Engineering,Thane,51,10,Yes,23/02/2021,05/10/2020
+384,Eimbee,Engineering,Pune,40,9,No,18/06/2021,05/08/2020
+385,Yodo,Food and restaurant,Nashik,98,19,Yes,15/10/2020,26/01/2021
+386,Demivee,Automotive Repair,Mumbai,74,11,Yes,23/07/2020,12/06/2021
+387,Devify,Retail,Nagpur,40,10,Yes,11/03/2021,08/01/2021
+388,Blogpad,Automotive Repair,Thane,78,3,Yes,22/10/2020,21/07/2020
+389,Livepath,Food and restaurant,Pune,93,14,Yes,03/04/2020,17/08/2020
+390,Quimm,Automotive Repair,Nashik,91,19,Yes,22/10/2020,22/02/2021
+391,Feednation,Health and beauty,Nashik,75,1,No,18/09/2020,29/12/2020
+392,Eazzy,Retail,Thane,40,15,Yes,12/12/2020,20/07/2020
+393,Cogidoo,Health and beauty,Nashik,30,17,No,28/12/2020,19/08/2021
+394,Skibox,Food and restaurant,Mumbai,55,9,Yes,15/04/2020,12/02/2021
+395,Voolith,Fabrication,Nagpur,43,19,Yes,01/08/2020,28/04/2020
+396,DabZ,Retail,Nashik,86,15,Yes,17/02/2021,10/12/2020
+397,Yacero,Food and restaurant,Nagpur,38,3,Yes,12/02/2021,30/07/2021
+398,Meeveo,Automotive Repair,Thane,77,16,Yes,07/11/2020,18/03/2021
+399,Jabberbean,Retail,Pune,29,3,Yes,28/07/2020,18/10/2020
+400,Twitterworks,Retail,Nagpur,49,12,No,19/11/2020,29/07/2021
+401,Brainverse,Health and beauty,Nagpur,44,6,Yes,20/07/2020,20/09/2020
+402,Zoozzy,Retail,Nashik,58,10,No,02/07/2020,24/02/2021
+403,Skinte,Retail,Nagpur,47,6,Yes,23/09/2020,04/06/2020
+404,Cogidoo,Automotive Repair,Thane,99,16,Yes,27/05/2020,01/01/2021
+405,Geba,Automotive Repair,Nashik,95,17,No,12/02/2021,22/12/2020
+406,Eidel,Engineering,Thane,86,17,No,20/07/2020,09/07/2020
+407,Flashdog,Automotive Repair,Nashik,65,14,Yes,21/06/2020,02/12/2020
+408,Innotype,Automotive Repair,Thane,76,13,Yes,05/02/2021,16/04/2020
+409,Jetwire,Automotive Repair,Nagpur,64,4,Yes,19/06/2020,29/04/2020
+410,Eadel,Automotive Repair,Mumbai,68,8,No,11/02/2021,09/11/2020
+411,Flipstorm,Retail,Nashik,94,6,No,17/07/2020,05/02/2021
+412,Dynabox,Food and restaurant,Nashik,45,20,No,23/11/2020,24/12/2020
+413,Oyonder,Automotive Repair,Nagpur,45,20,No,04/04/2021,24/06/2021
+414,Topicblab,Automotive Repair,Pune,64,20,No,15/08/2020,18/06/2020
+415,Ozu,Fabrication,Pune,82,2,No,23/11/2020,23/01/2021
+416,Mynte,Automotive Repair,Nagpur,65,15,Yes,31/08/2020,09/01/2021
+417,Gigashots,Automotive Repair,Pune,24,6,No,15/07/2020,06/12/2020
+418,Camimbo,Automotive Repair,Nashik,22,17,Yes,16/06/2020,26/08/2021
+419,Quinu,Retail,Nagpur,98,13,Yes,16/03/2020,06/05/2020
+420,Jaxnation,Engineering,Nagpur,86,15,Yes,13/05/2021,17/06/2020
+421,Wordify,Retail,Mumbai,93,18,No,28/05/2021,31/10/2020
+422,Chatterbridge,Retail,Mumbai,33,10,Yes,11/12/2020,21/06/2020
+423,Avavee,Retail,Nashik,69,14,Yes,13/11/2020,25/04/2021
+424,Quatz,Automotive Repair,Nagpur,36,5,No,28/06/2021,07/11/2020
+425,Leexo,Fabrication,Nagpur,69,6,No,27/02/2021,17/08/2020
+426,Blogpad,Automotive Repair,Nashik,33,16,Yes,13/01/2021,11/04/2021
+427,Eimbee,Automotive Repair,Thane,23,6,Yes,23/07/2020,26/03/2021
+428,Skinix,Engineering,Pune,26,20,No,07/05/2020,09/09/2020
+429,Quinu,Engineering,Nashik,41,4,No,14/05/2021,31/05/2021
+430,Npath,Automotive Repair,Pune,24,18,Yes,05/05/2020,06/05/2020
+431,Jaxspan,Engineering,Thane,36,8,No,02/02/2021,13/04/2021
+432,Eayo,Food and restaurant,Thane,41,13,Yes,02/06/2021,09/12/2020
+433,Ooba,Automotive Repair,Pune,38,7,Yes,03/08/2020,29/04/2021
+434,Skalith,Automotive Repair,Pune,38,15,Yes,10/04/2021,17/06/2020
+435,Tanoodle,Health and beauty,Nagpur,82,4,Yes,27/09/2020,06/03/2021
+436,Eadel,Retail,Nashik,65,17,Yes,20/02/2021,08/11/2020
+437,Edgeify,Automotive Repair,Thane,67,11,Yes,12/11/2020,17/10/2020
+438,Tavu,Engineering,Mumbai,42,13,No,21/07/2020,03/12/2020
+439,Tagopia,Automotive Repair,Nashik,55,1,No,12/03/2021,18/08/2021
+440,Skyba,Automotive Repair,Thane,21,3,Yes,27/10/2020,12/08/2021
+441,Innojam,Automotive Repair,Pune,23,19,No,19/03/2021,18/07/2021
+442,Jaloo,Retail,Pune,31,6,Yes,16/01/2021,03/06/2020
+443,Youbridge,Food and restaurant,Nagpur,40,14,Yes,19/06/2021,30/11/2020
+444,Jetpulse,Automotive Repair,Nashik,57,12,Yes,25/07/2020,28/03/2021
+445,Brainlounge,Retail,Mumbai,40,16,Yes,04/09/2020,31/07/2021
+446,Mybuzz,Automotive Repair,Nagpur,30,1,Yes,16/08/2020,15/05/2020
+447,Voonder,Food and restaurant,Pune,82,17,No,13/04/2021,26/01/2021
+448,Katz,Food and restaurant,Nagpur,89,8,Yes,26/07/2020,01/01/2021
+449,Realblab,Fabrication,Nashik,48,5,No,28/05/2020,13/06/2020
+450,Blogspan,Automotive Repair,Nagpur,66,18,No,29/03/2020,08/12/2020
+451,Tagfeed,Retail,Nagpur,49,1,No,14/04/2021,18/12/2020
+452,Skajo,Health and beauty,Nashik,78,3,Yes,06/05/2021,14/08/2020
+453,Zoombeat,Retail,Pune,90,9,Yes,21/03/2021,28/07/2020
+454,Flashset,Automotive Repair,Nagpur,54,4,Yes,05/06/2020,10/08/2020
+455,Riffpedia,Engineering,Nagpur,97,11,No,13/02/2021,07/06/2021
+456,Twitternation,Retail,Nashik,61,20,Yes,09/02/2021,21/04/2021
+457,Gigashots,Engineering,Thane,83,16,Yes,10/06/2020,11/09/2020
+458,Aimbo,Engineering,Mumbai,90,5,Yes,17/03/2021,27/11/2020
+459,Lazzy,Automotive Repair,Mumbai,52,17,Yes,24/06/2021,22/12/2020
+460,Babbleopia,Engineering,Nashik,62,14,Yes,22/12/2020,28/03/2021
+461,Trilith,Engineering,Pune,94,4,Yes,04/12/2020,25/11/2020
+462,Oyoloo,Automotive Repair,Nagpur,60,7,No,12/01/2021,15/06/2020
+463,Mynte,Fabrication,Nashik,70,11,Yes,18/08/2020,29/12/2020
+464,Blognation,Engineering,Mumbai,57,16,No,15/07/2020,22/10/2020
+465,Roombo,Automotive Repair,Pune,34,18,Yes,30/05/2020,31/03/2021
+466,Oloo,Engineering,Nagpur,100,18,Yes,29/11/2020,26/05/2020
+467,Photofeed,Automotive Repair,Nashik,89,17,Yes,12/09/2020,29/01/2021
+468,Feednation,Health and beauty,Mumbai,61,18,Yes,30/10/2020,15/11/2020
+469,Realcube,Food and restaurant,Thane,40,1,Yes,01/08/2020,11/04/2020
+470,Thoughtstorm,Retail,Pune,70,16,Yes,24/04/2021,11/11/2020
+471,Linklinks,Engineering,Mumbai,34,3,Yes,11/10/2020,11/06/2021
+472,Realmix,Automotive Repair,Nagpur,62,20,Yes,25/05/2020,24/11/2020
+473,Realbridge,Health and beauty,Nagpur,62,5,Yes,26/11/2020,08/08/2020
+474,Brainbox,Fabrication,Nashik,31,15,No,20/10/2020,18/03/2021
+475,Riffpedia,Automotive Repair,Thane,75,15,Yes,30/10/2020,14/06/2021
+476,Katz,Fabrication,Nashik,84,20,No,29/06/2021,03/06/2020
+477,Demizz,Health and beauty,Nagpur,86,2,No,24/07/2020,22/05/2021
+478,Yadel,Automotive Repair,Nashik,71,20,Yes,03/10/2020,25/07/2021
+479,Agimba,Engineering,Thane,29,3,Yes,20/09/2020,10/05/2021
+480,Realbridge,Automotive Repair,Nashik,85,20,Yes,17/06/2021,29/08/2020
+481,Agimba,Retail,Nagpur,40,19,No,17/10/2020,10/04/2020
+482,Skibox,Automotive Repair,Thane,35,17,Yes,05/10/2020,02/10/2020
+483,Flashset,Automotive Repair,Nagpur,83,9,No,31/10/2020,25/07/2020
+484,Vinte,Health and beauty,Thane,75,2,Yes,12/10/2020,28/12/2020
+485,Jaxspan,Food and restaurant,Mumbai,23,9,Yes,05/06/2021,09/11/2020
+486,Livepath,Retail,Pune,82,16,No,06/04/2021,24/12/2020
+487,Shuffledrive,Fabrication,Nagpur,66,6,Yes,02/01/2021,14/03/2021
+488,Bubbletube,Automotive Repair,Thane,37,14,Yes,12/01/2021,09/12/2020
+489,Realpoint,Retail,Pune,33,7,No,28/06/2021,18/10/2020
+490,Fivespan,Fabrication,Thane,85,3,Yes,04/06/2020,15/06/2021
+491,Tagcat,Retail,Nagpur,78,2,Yes,26/04/2021,26/12/2020
+492,Skibox,Automotive Repair,Nagpur,42,19,Yes,17/05/2021,04/11/2020
+493,Blogtag,Engineering,Pune,85,16,Yes,21/04/2020,11/01/2021
+494,Yodo,Food and restaurant,Nagpur,25,5,Yes,18/10/2020,27/04/2020
+495,Ainyx,Food and restaurant,Thane,24,6,Yes,16/03/2020,03/04/2020
+496,Pixope,Fabrication,Nashik,89,12,Yes,01/12/2020,08/05/2020
+497,Kwilith,Automotive Repair,Pune,59,7,No,19/05/2020,03/04/2020
+498,Skynoodle,Fabrication,Nagpur,48,5,Yes,04/03/2021,22/02/2021
+499,Dazzlesphere,Retail,Mumbai,99,19,Yes,16/02/2021,29/05/2020
+500,Viva,Automotive Repair,Thane,56,12,Yes,18/02/2021,01/10/2020
+501,Skyndu,Retail,Nagpur,92,12,Yes,03/07/2020,03/10/2020
+502,Centimia,Engineering,Mumbai,53,3,No,14/03/2020,27/11/2020
+503,Yoveo,Automotive Repair,Nagpur,55,1,No,03/11/2020,25/11/2020
+504,Skimia,Automotive Repair,Nagpur,96,8,Yes,02/12/2020,11/08/2020
+505,Zoombox,Retail,Nagpur,87,19,Yes,09/06/2021,02/06/2021
+506,Jayo,Retail,Nashik,67,1,Yes,23/08/2020,12/07/2020
+507,Flashspan,Retail,Mumbai,71,2,Yes,24/09/2020,22/02/2021
+508,Avaveo,Automotive Repair,Thane,88,11,Yes,05/11/2020,30/03/2021
+509,Twitterbeat,Health and beauty,Pune,22,4,Yes,31/03/2021,08/08/2021
+510,Eazzy,Fabrication,Nagpur,57,6,Yes,09/03/2021,06/07/2021
+511,Kare,Retail,Mumbai,20,4,Yes,04/03/2021,10/02/2021
+512,Photojam,Food and restaurant,Pune,94,2,Yes,28/03/2020,14/05/2020
+513,Skalith,Engineering,Thane,39,13,Yes,25/03/2020,14/09/2020
+514,Meevee,Health and beauty,Nashik,27,11,Yes,16/03/2021,20/08/2020
+515,Kimia,Automotive Repair,Nashik,66,20,Yes,31/01/2021,29/05/2020
+516,Flashspan,Automotive Repair,Thane,67,12,Yes,22/04/2020,05/06/2020
+517,Oba,Health and beauty,Nashik,48,9,No,18/08/2020,05/12/2020
+518,Ainyx,Engineering,Nagpur,66,7,Yes,03/01/2021,06/08/2021
+519,Wikido,Retail,Nagpur,75,3,Yes,13/08/2020,05/10/2020
+520,Midel,Retail,Nagpur,96,17,Yes,05/05/2021,08/04/2021
+521,Eimbee,Retail,Thane,80,5,Yes,27/02/2021,12/05/2020
+522,Talane,Health and beauty,Thane,91,5,No,04/02/2021,03/04/2020
+523,Trilith,Food and restaurant,Mumbai,82,9,Yes,15/03/2020,08/03/2021
+524,Meetz,Automotive Repair,Nashik,58,19,Yes,26/05/2021,05/04/2021
+525,Dabtype,Automotive Repair,Nagpur,43,5,No,04/12/2020,17/06/2020
+526,Gigabox,Retail,Pune,61,2,Yes,17/09/2020,19/02/2021
+527,Avamba,Fabrication,Nagpur,79,17,Yes,25/08/2020,26/05/2020
+528,Babblestorm,Fabrication,Thane,81,12,Yes,25/03/2021,02/08/2020
+529,Einti,Retail,Nashik,61,8,Yes,05/07/2020,31/10/2020
+530,Ooba,Engineering,Nashik,29,4,No,13/04/2020,14/03/2021
+531,Devshare,Engineering,Thane,72,11,No,08/11/2020,30/12/2020
+532,Jaxspan,Retail,Nagpur,30,14,Yes,28/10/2020,30/09/2020
+533,Wikido,Automotive Repair,Nagpur,59,8,Yes,29/09/2020,11/06/2021
+534,Blogtag,Fabrication,Nashik,35,18,No,09/06/2020,07/02/2021
+535,Oyope,Automotive Repair,Nashik,90,6,Yes,08/08/2020,04/06/2020
+536,Roodel,Automotive Repair,Mumbai,51,11,Yes,28/10/2020,15/03/2021
+537,Skivee,Fabrication,Pune,57,13,Yes,31/03/2020,05/07/2021
+538,Twitterbridge,Health and beauty,Thane,36,3,No,11/05/2020,29/04/2021
+539,Tazz,Retail,Nashik,86,3,Yes,04/07/2020,30/12/2020
+540,Voolith,Engineering,Thane,59,4,Yes,01/04/2020,27/09/2020
+541,Vidoo,Automotive Repair,Thane,60,3,Yes,07/01/2021,19/11/2020
+542,Riffpath,Automotive Repair,Nashik,65,3,Yes,22/07/2020,25/04/2021
+543,Gevee,Retail,Thane,48,12,No,17/09/2020,05/01/2021
+544,Jayo,Food and restaurant,Pune,93,3,No,07/07/2020,11/05/2020
+545,Yoveo,Automotive Repair,Pune,25,5,Yes,27/03/2020,29/06/2020
+546,Skippad,Retail,Nashik,31,3,No,02/12/2020,07/11/2020
+547,Realbridge,Retail,Nashik,22,11,Yes,01/06/2020,05/04/2020
+548,Avamm,Health and beauty,Nashik,50,17,Yes,24/06/2021,21/03/2021
+549,Photobug,Automotive Repair,Nagpur,64,17,Yes,31/12/2020,11/01/2021
+550,Realbridge,Automotive Repair,Nashik,57,20,Yes,18/06/2021,28/10/2020
+551,Ailane,Retail,Mumbai,58,5,Yes,13/04/2021,19/09/2020
+552,Twitterworks,Retail,Thane,77,19,No,12/03/2020,15/08/2020
+553,Feedmix,Fabrication,Nagpur,26,4,Yes,21/04/2020,03/06/2020
+554,Pixoboo,Automotive Repair,Nagpur,86,1,Yes,22/09/2020,25/04/2021
+555,Eire,Retail,Nashik,75,5,Yes,14/03/2020,02/02/2021
+556,Blogpad,Engineering,Mumbai,37,3,No,30/04/2021,07/06/2020
+557,Gabtype,Automotive Repair,Thane,63,9,Yes,25/06/2021,25/09/2020
+558,Realbuzz,Retail,Thane,44,9,Yes,20/12/2020,29/07/2020
+559,Yodo,Automotive Repair,Nagpur,66,3,Yes,31/03/2021,09/08/2020
+560,Skipstorm,Food and restaurant,Pune,20,19,Yes,19/06/2020,05/11/2020
+561,Rhybox,Automotive Repair,Pune,23,7,Yes,17/03/2020,29/06/2021
+562,Tanoodle,Health and beauty,Pune,64,13,Yes,27/07/2020,05/01/2021
+563,DabZ,Automotive Repair,Mumbai,50,2,Yes,04/01/2021,22/08/2021
+564,Jabberbean,Food and restaurant,Mumbai,67,14,No,30/10/2020,04/11/2020
+565,Riffpath,Retail,Nashik,66,12,No,04/05/2021,27/05/2021
+566,Youopia,Fabrication,Mumbai,66,5,Yes,15/12/2020,09/04/2020
+567,Trunyx,Health and beauty,Pune,31,3,Yes,16/11/2020,12/09/2020
+568,Skinix,Retail,Pune,99,17,No,24/10/2020,12/02/2021
+569,Ozu,Food and restaurant,Pune,65,9,Yes,27/04/2020,08/12/2020
+570,Realmix,Retail,Thane,50,15,Yes,16/07/2020,19/01/2021
+571,Photobug,Retail,Thane,42,6,Yes,20/08/2020,26/11/2020
+572,Layo,Engineering,Pune,68,11,Yes,22/06/2020,23/07/2021
+573,Npath,Engineering,Nashik,84,3,Yes,13/05/2021,20/08/2021
+574,Jatri,Fabrication,Nashik,93,7,Yes,02/10/2020,04/02/2021
+575,Youspan,Automotive Repair,Nashik,98,5,Yes,10/03/2021,31/07/2021
+576,Feednation,Food and restaurant,Nashik,79,16,No,01/04/2020,07/03/2021
+577,Rhyloo,Retail,Nashik,72,7,Yes,24/08/2020,13/04/2021
+578,Ozu,Retail,Thane,91,15,No,08/03/2020,04/06/2021
+579,Plambee,Fabrication,Nashik,99,11,Yes,07/11/2020,09/09/2020
+580,Zoomdog,Engineering,Nagpur,46,19,Yes,08/04/2020,25/06/2020
+581,Photobean,Food and restaurant,Nagpur,57,18,Yes,25/04/2020,14/08/2020
+582,Fivebridge,Fabrication,Thane,96,15,Yes,22/07/2020,28/05/2020
+583,Katz,Food and restaurant,Nagpur,33,18,Yes,02/06/2021,04/10/2020
+584,Jabberstorm,Engineering,Nashik,53,5,No,04/07/2020,03/05/2021
+585,Zazio,Engineering,Thane,90,12,No,18/06/2020,25/09/2020
+586,Browseblab,Retail,Thane,67,20,No,08/05/2021,24/06/2021
+587,Bubbletube,Retail,Nashik,82,9,Yes,03/10/2020,10/09/2020
+588,Mydo,Automotive Repair,Nagpur,53,19,Yes,09/08/2020,15/04/2020
+589,Mynte,Retail,Nashik,52,3,No,21/04/2020,22/03/2021
+590,Zoozzy,Food and restaurant,Mumbai,65,17,Yes,15/06/2020,02/05/2020
+591,Meezzy,Automotive Repair,Mumbai,84,18,Yes,09/12/2020,19/07/2021
+592,Chatterbridge,Fabrication,Nagpur,24,16,No,23/08/2020,06/07/2020
+593,Cogilith,Retail,Pune,98,16,Yes,04/12/2020,06/05/2020
+594,Youspan,Food and restaurant,Nashik,32,14,Yes,09/06/2021,29/08/2021
+595,Kanoodle,Engineering,Thane,53,19,No,08/10/2020,05/04/2020
+596,Myworks,Retail,Nagpur,76,14,Yes,22/03/2021,09/04/2020
+597,Myworks,Retail,Nagpur,40,19,No,21/04/2021,06/12/2020
+598,Riffpath,Engineering,Mumbai,20,19,Yes,28/05/2020,10/01/2021
+599,Realpoint,Fabrication,Thane,69,18,Yes,29/03/2020,22/06/2021
+600,Zooxo,Automotive Repair,Mumbai,32,16,Yes,23/05/2020,12/09/2020
+601,Skyvu,Health and beauty,Nagpur,20,13,No,18/08/2020,22/08/2021
+602,Vitz,Retail,Thane,93,2,Yes,25/05/2021,05/08/2020
+603,Avamba,Retail,Nashik,78,17,Yes,24/04/2021,22/04/2021
+604,Brightbean,Health and beauty,Nashik,34,13,Yes,01/06/2021,03/01/2021
+605,Realbuzz,Retail,Pune,35,10,No,24/02/2021,05/09/2020
+606,Skajo,Food and restaurant,Pune,21,13,Yes,11/07/2020,25/05/2020
+607,Skidoo,Retail,Thane,24,1,No,30/05/2020,16/03/2021
+608,Skyba,Retail,Nagpur,73,3,No,08/06/2021,28/08/2021
+609,Photolist,Fabrication,Thane,40,10,No,19/12/2020,18/10/2020
+610,Brightdog,Engineering,Nagpur,51,17,No,19/07/2020,06/07/2020
+611,Janyx,Automotive Repair,Nagpur,20,12,Yes,06/08/2020,05/10/2020
+612,Realcube,Fabrication,Nagpur,92,7,No,24/07/2020,28/09/2020
+613,Edgeblab,Health and beauty,Pune,79,7,No,01/07/2020,04/06/2021
+614,LiveZ,Retail,Mumbai,78,8,Yes,02/07/2020,16/04/2020
+615,Jayo,Fabrication,Nagpur,78,2,Yes,17/04/2020,26/05/2021
+616,Fiveclub,Automotive Repair,Nashik,77,16,Yes,15/05/2021,30/06/2021
+617,Jatri,Automotive Repair,Thane,23,11,Yes,26/09/2020,06/02/2021
+618,Geba,Fabrication,Mumbai,79,11,Yes,14/07/2020,24/06/2020
+619,Cogidoo,Engineering,Nashik,40,1,Yes,01/11/2020,08/10/2020
+620,Topicstorm,Health and beauty,Nagpur,81,15,Yes,12/07/2020,12/04/2020
+621,Riffpath,Automotive Repair,Pune,74,2,No,29/05/2021,18/04/2020
+622,Kaymbo,Health and beauty,Nashik,31,5,Yes,02/03/2020,20/06/2021
+623,Blogtag,Retail,Nashik,78,17,Yes,28/08/2020,15/01/2021
+624,Blognation,Health and beauty,Nashik,58,5,Yes,25/03/2020,02/04/2021
+625,Meezzy,Automotive Repair,Nagpur,67,10,Yes,29/06/2021,19/01/2021
+626,Gabspot,Retail,Nashik,68,10,Yes,10/03/2021,11/04/2020
+627,Wordpedia,Food and restaurant,Thane,29,2,No,25/05/2020,25/04/2021
+628,Gabspot,Automotive Repair,Nagpur,75,11,Yes,19/03/2020,19/05/2021
+629,Zoomcast,Retail,Nagpur,77,6,No,17/05/2021,24/12/2020
+630,Browsezoom,Retail,Mumbai,26,16,No,24/02/2021,25/03/2021
+631,Rhyzio,Automotive Repair,Nashik,21,20,No,25/02/2021,25/09/2020
+632,Flashset,Food and restaurant,Pune,98,10,Yes,17/02/2021,19/04/2020
+633,Twitterbridge,Automotive Repair,Thane,79,12,Yes,26/03/2021,01/11/2020
+634,Trupe,Automotive Repair,Mumbai,47,6,Yes,04/05/2020,30/04/2021
+635,Voonte,Retail,Pune,34,10,No,08/06/2021,29/12/2020
+636,Centimia,Health and beauty,Pune,54,10,Yes,17/05/2021,03/12/2020
+637,Zooveo,Engineering,Nagpur,82,5,No,09/05/2020,03/06/2020
+638,Feedfish,Automotive Repair,Nashik,38,12,Yes,16/01/2021,23/08/2021
+639,Eayo,Health and beauty,Nagpur,21,10,No,13/02/2021,14/10/2020
+640,Skippad,Automotive Repair,Thane,53,18,No,17/01/2021,16/05/2021
+641,Meedoo,Fabrication,Thane,42,8,No,30/04/2021,18/02/2021
+642,Chatterbridge,Engineering,Nagpur,87,4,No,01/10/2020,21/01/2021
+643,Twitterwire,Automotive Repair,Nagpur,100,6,Yes,07/06/2020,09/09/2020
+644,Oloo,Retail,Nagpur,60,14,Yes,26/02/2021,10/07/2021
+645,Yozio,Automotive Repair,Nashik,93,20,Yes,05/11/2020,11/06/2020
+646,Vipe,Retail,Nagpur,47,1,No,13/03/2020,01/03/2021
+647,Reallinks,Retail,Pune,69,14,Yes,12/08/2020,28/06/2020
+648,Reallinks,Automotive Repair,Mumbai,70,10,Yes,24/11/2020,28/11/2020
+649,Thoughtstorm,Fabrication,Nagpur,52,17,Yes,28/06/2020,24/05/2020
+650,Divanoodle,Retail,Pune,37,18,Yes,27/04/2020,21/04/2020
+651,Ozu,Automotive Repair,Pune,95,11,No,25/06/2021,01/06/2021
+652,Snaptags,Engineering,Mumbai,35,14,Yes,05/02/2021,01/01/2021
+653,Jetwire,Engineering,Pune,96,10,Yes,08/07/2020,02/06/2020
+654,DabZ,Engineering,Nagpur,71,13,No,05/05/2021,10/07/2020
+655,Brainbox,Food and restaurant,Nashik,88,15,Yes,02/08/2020,26/05/2021
+656,Brainbox,Retail,Nagpur,56,18,No,16/12/2020,28/11/2020
+657,Gigabox,Retail,Nashik,70,19,Yes,31/01/2021,15/09/2020
+658,Miboo,Retail,Pune,52,2,No,18/01/2021,06/06/2020
+659,Trudeo,Engineering,Nashik,89,7,Yes,22/03/2021,12/08/2021
+660,Zoozzy,Automotive Repair,Pune,61,12,No,15/08/2020,25/08/2020
+661,Mymm,Food and restaurant,Nashik,45,3,Yes,17/09/2020,28/10/2020
+662,Cogilith,Automotive Repair,Nagpur,29,16,Yes,26/06/2021,08/08/2020
+663,Quinu,Automotive Repair,Nashik,78,7,No,22/02/2021,23/03/2021
+664,Skipfire,Food and restaurant,Thane,42,8,Yes,18/09/2020,20/05/2020
+665,Livefish,Fabrication,Nashik,61,4,Yes,02/07/2020,19/02/2021
+666,Edgetag,Automotive Repair,Nagpur,96,15,Yes,05/09/2020,01/05/2021
+667,Twitterwire,Retail,Pune,20,3,Yes,30/04/2020,14/06/2020
+668,Linklinks,Food and restaurant,Pune,85,4,Yes,07/11/2020,13/12/2020
+669,Thoughtsphere,Health and beauty,Nashik,69,8,No,04/08/2020,12/09/2020
+670,Lazz,Food and restaurant,Thane,66,4,Yes,06/12/2020,12/03/2021
+671,Eadel,Automotive Repair,Nagpur,22,8,No,22/03/2021,22/12/2020
+672,Blogtag,Health and beauty,Mumbai,71,4,Yes,10/05/2020,13/08/2020
+673,InnoZ,Health and beauty,Pune,97,9,Yes,20/12/2020,04/05/2021
+674,Topicblab,Fabrication,Nashik,70,8,Yes,09/04/2021,15/06/2020
+675,Voolith,Retail,Nagpur,89,8,Yes,09/02/2021,04/08/2021
+676,Lazzy,Engineering,Nashik,71,14,No,14/07/2020,23/10/2020
+677,Photojam,Fabrication,Nashik,54,14,Yes,18/02/2021,18/11/2020
+678,Yadel,Automotive Repair,Thane,82,18,Yes,22/03/2021,12/10/2020
+679,Devcast,Fabrication,Nagpur,42,16,No,17/06/2021,04/06/2020
+680,Eamia,Fabrication,Mumbai,47,17,No,07/09/2020,11/07/2020
+681,Eayo,Retail,Thane,98,18,Yes,29/05/2021,06/04/2021
+682,Blogpad,Health and beauty,Nagpur,28,15,Yes,06/03/2020,29/08/2021
+683,Gigaclub,Automotive Repair,Nashik,49,14,Yes,27/07/2020,03/08/2021
+684,Youfeed,Automotive Repair,Nashik,20,4,No,01/03/2020,21/09/2020
+685,Jabbercube,Engineering,Pune,70,2,Yes,02/04/2020,26/09/2020
+686,Skimia,Engineering,Nashik,96,2,Yes,03/04/2020,20/04/2021
+687,Camido,Automotive Repair,Nashik,27,5,Yes,16/12/2020,26/04/2020
+688,Vidoo,Automotive Repair,Thane,59,19,No,23/06/2020,15/07/2021
+689,Izio,Health and beauty,Pune,48,3,Yes,12/04/2021,26/03/2021
+690,Camimbo,Retail,Mumbai,73,9,No,13/07/2020,13/03/2021
+691,Realbridge,Retail,Mumbai,68,6,Yes,05/10/2020,30/08/2020
+692,Skibox,Automotive Repair,Mumbai,61,7,Yes,18/06/2021,13/01/2021
+693,Yombu,Retail,Pune,36,6,Yes,19/06/2021,28/05/2021
+694,Livepath,Fabrication,Nagpur,77,12,No,20/07/2020,11/04/2021
+695,Yakidoo,Automotive Repair,Nashik,34,20,Yes,20/03/2020,25/07/2020
+696,Vinder,Engineering,Nagpur,92,16,No,10/04/2020,22/06/2020
+697,Twiyo,Health and beauty,Nagpur,80,14,Yes,22/03/2020,30/08/2021
+698,Ntags,Retail,Mumbai,71,5,Yes,13/03/2021,30/08/2021
+699,Jetpulse,Retail,Nashik,53,18,Yes,16/06/2020,02/10/2020
+700,Demizz,Food and restaurant,Nashik,93,17,Yes,05/01/2021,23/04/2020
+701,Ntag,Retail,Nagpur,87,10,Yes,27/11/2020,16/05/2020
+702,Gigashots,Automotive Repair,Nagpur,32,11,Yes,22/07/2020,08/05/2021
+703,Feedfire,Retail,Mumbai,25,10,No,31/07/2020,06/02/2021
+704,Oyoloo,Retail,Nashik,21,15,Yes,26/03/2020,23/09/2020
+705,Ainyx,Food and restaurant,Nashik,29,17,No,20/12/2020,20/11/2020
+706,Bluezoom,Retail,Nagpur,93,5,No,05/04/2021,05/05/2021
+707,Agimba,Engineering,Nagpur,90,4,Yes,24/02/2021,23/03/2021
+708,Chatterbridge,Food and restaurant,Mumbai,26,4,Yes,27/01/2021,06/04/2020
+709,Kanoodle,Health and beauty,Nagpur,65,20,Yes,11/05/2020,27/11/2020
+710,Youbridge,Retail,Nagpur,29,10,Yes,11/12/2020,13/10/2020
+711,Pixoboo,Food and restaurant,Pune,61,18,No,14/04/2021,22/12/2020
+712,Youopia,Automotive Repair,Thane,74,19,Yes,23/12/2020,19/05/2021
+713,Quinu,Retail,Mumbai,94,17,Yes,03/06/2020,30/09/2020
+714,Viva,Retail,Nashik,20,20,Yes,29/05/2020,01/01/2021
+715,Gigaclub,Automotive Repair,Pune,21,14,No,16/02/2021,02/08/2020
+716,Gabspot,Food and restaurant,Pune,60,3,No,13/10/2020,11/08/2021
+717,Twiyo,Automotive Repair,Thane,65,7,No,03/03/2021,20/11/2020
+718,InnoZ,Retail,Thane,22,11,Yes,20/06/2020,17/08/2021
+719,Kaymbo,Retail,Nagpur,38,16,Yes,06/07/2020,15/03/2021
+720,Riffpath,Fabrication,Mumbai,70,11,Yes,09/04/2020,20/06/2021
+721,Topiczoom,Automotive Repair,Nashik,67,2,No,22/11/2020,28/07/2020
+722,Wikizz,Automotive Repair,Nagpur,85,2,Yes,22/06/2021,11/12/2020
+723,Skinte,Fabrication,Nagpur,48,5,No,09/08/2020,08/09/2020
+724,Vitz,Automotive Repair,Nagpur,58,4,No,25/04/2020,13/01/2021
+725,Trudeo,Fabrication,Pune,62,3,Yes,01/12/2020,13/02/2021
+726,Omba,Retail,Nagpur,50,3,Yes,23/05/2021,02/05/2021
+727,Thoughtstorm,Automotive Repair,Nashik,70,17,Yes,02/05/2021,11/02/2021
+728,Yata,Automotive Repair,Thane,24,11,No,21/06/2020,13/04/2021
+729,Yotz,Fabrication,Nagpur,41,8,No,07/06/2020,01/06/2020
+730,Oloo,Fabrication,Mumbai,56,9,Yes,06/03/2021,03/07/2020
+731,Lazz,Health and beauty,Nagpur,38,10,Yes,31/01/2021,24/10/2020
+732,Twinder,Health and beauty,Pune,78,5,Yes,15/11/2020,04/02/2021
+733,Yambee,Retail,Nashik,72,11,Yes,09/03/2020,19/07/2020
+734,Dazzlesphere,Automotive Repair,Nagpur,80,11,Yes,23/05/2020,19/03/2021
+735,Fanoodle,Health and beauty,Nagpur,99,8,Yes,10/05/2020,04/04/2020
+736,Shuffletag,Health and beauty,Nashik,32,12,Yes,11/10/2020,30/01/2021
+737,Babbleblab,Engineering,Nagpur,86,6,No,02/07/2020,01/04/2020
+738,Divanoodle,Retail,Mumbai,94,15,No,03/04/2021,09/05/2020
+739,Browsecat,Food and restaurant,Nashik,40,6,Yes,19/04/2020,02/04/2020
+740,Edgepulse,Retail,Nashik,43,5,Yes,10/07/2020,21/06/2020
+741,Twiyo,Automotive Repair,Thane,68,19,Yes,09/04/2020,23/04/2020
+742,Twitterbridge,Automotive Repair,Nashik,25,2,Yes,26/07/2020,30/12/2020
+743,Cogidoo,Automotive Repair,Mumbai,52,7,Yes,13/02/2021,01/07/2021
+744,Aimbu,Automotive Repair,Nagpur,64,1,No,03/04/2021,07/01/2021
+745,Bluejam,Fabrication,Mumbai,41,11,No,09/06/2021,25/07/2021
+746,Zoonder,Retail,Mumbai,25,1,Yes,03/09/2020,04/08/2020
+747,Miboo,Fabrication,Thane,50,5,No,29/05/2020,24/02/2021
+748,Meeveo,Food and restaurant,Nashik,72,6,Yes,20/04/2021,14/11/2020
+749,Yozio,Engineering,Nagpur,66,10,No,27/05/2021,03/04/2021
+750,Wikibox,Retail,Mumbai,65,16,No,31/07/2020,10/02/2021
+751,Aimbu,Automotive Repair,Nashik,91,20,Yes,09/08/2020,27/01/2021
+752,Babblestorm,Automotive Repair,Mumbai,37,16,Yes,23/03/2020,23/08/2020
+753,Gabcube,Automotive Repair,Nagpur,26,6,Yes,24/04/2021,30/05/2021
+754,Zooxo,Retail,Nashik,79,7,No,04/11/2020,11/07/2021
+755,Zava,Automotive Repair,Nashik,31,13,Yes,08/03/2021,08/07/2021
+756,Avaveo,Engineering,Nashik,76,4,No,01/04/2020,03/08/2021
+757,Skimia,Automotive Repair,Nagpur,26,5,Yes,10/03/2021,28/04/2021
+758,Zoozzy,Automotive Repair,Pune,41,6,Yes,21/10/2020,08/11/2020
+759,Demimbu,Food and restaurant,Nagpur,60,10,Yes,27/03/2021,22/07/2020
+760,Leenti,Fabrication,Nashik,77,1,Yes,10/06/2021,29/07/2020
+761,Edgepulse,Retail,Nashik,28,19,No,21/04/2021,16/08/2020
+762,Skajo,Retail,Nagpur,50,2,No,14/05/2021,14/07/2021
+763,Kayveo,Fabrication,Nashik,32,10,Yes,17/11/2020,07/05/2020
+764,Photobug,Health and beauty,Nashik,61,7,Yes,13/04/2020,23/07/2021
+765,Yodo,Engineering,Thane,94,19,Yes,10/03/2021,01/05/2020
+766,Eare,Fabrication,Nagpur,72,20,No,28/07/2020,07/05/2020
+767,Yambee,Food and restaurant,Thane,89,5,Yes,07/03/2021,15/10/2020
+768,Cogibox,Retail,Mumbai,75,20,Yes,13/12/2020,13/04/2021
+769,Fanoodle,Retail,Nagpur,58,7,Yes,04/12/2020,20/10/2020
+770,Kwideo,Food and restaurant,Nagpur,78,9,No,21/04/2021,20/10/2020
+771,Flashpoint,Food and restaurant,Nashik,63,20,No,17/09/2020,13/05/2020
+772,Livepath,Food and restaurant,Nagpur,52,10,Yes,29/01/2021,29/05/2020
+773,Omba,Health and beauty,Nashik,97,15,Yes,10/06/2021,11/11/2020
+774,Pixonyx,Retail,Mumbai,92,2,No,19/01/2021,04/01/2021
+775,Plambee,Automotive Repair,Thane,39,3,Yes,06/03/2021,05/07/2021
+776,Myworks,Retail,Nashik,95,4,Yes,26/01/2021,13/08/2021
+777,Vitz,Automotive Repair,Nashik,59,9,No,18/08/2020,13/08/2021
+778,Flipbug,Retail,Nashik,66,8,No,06/05/2021,12/08/2021
+779,Rhycero,Automotive Repair,Nashik,89,6,Yes,28/12/2020,28/08/2021
+780,Jayo,Retail,Nagpur,55,2,Yes,28/01/2021,13/07/2020
+781,Thoughtstorm,Food and restaurant,Nagpur,24,7,Yes,11/09/2020,06/06/2021
+782,Jaxspan,Retail,Nagpur,43,16,Yes,22/05/2021,14/11/2020
+783,Fliptune,Food and restaurant,Nagpur,96,10,Yes,04/11/2020,21/09/2020
+784,Jetwire,Automotive Repair,Pune,38,5,No,29/06/2021,05/01/2021
+785,Eamia,Automotive Repair,Mumbai,22,17,Yes,12/05/2020,29/08/2021
+786,Topicstorm,Retail,Thane,73,4,Yes,03/03/2021,07/05/2020
+787,Izio,Fabrication,Mumbai,42,15,No,28/07/2020,09/08/2020
+788,Camido,Automotive Repair,Pune,87,1,No,17/03/2020,24/09/2020
+789,Fiveclub,Health and beauty,Nashik,73,8,Yes,10/04/2020,24/11/2020
+790,Avaveo,Food and restaurant,Nagpur,87,6,No,06/06/2021,07/05/2021
+791,Photojam,Engineering,Pune,81,7,No,10/03/2021,28/08/2021
+792,Izio,Fabrication,Nashik,55,12,No,16/12/2020,19/07/2020
+793,Buzzdog,Retail,Pune,42,15,Yes,22/02/2021,15/10/2020
+794,Meeveo,Retail,Nagpur,30,4,Yes,07/06/2021,21/01/2021
+795,Leexo,Engineering,Nashik,89,10,Yes,20/01/2021,05/04/2020
+796,Shufflester,Automotive Repair,Nashik,73,9,Yes,16/01/2021,04/01/2021
+797,Realbridge,Retail,Nagpur,55,9,Yes,15/08/2020,12/12/2020
+798,Skimia,Retail,Nagpur,34,20,No,16/01/2021,07/07/2021
+799,Skimia,Engineering,Mumbai,72,13,Yes,25/05/2020,24/03/2021
+800,Zoomlounge,Health and beauty,Nagpur,72,14,Yes,28/07/2020,14/10/2020
+801,Meedoo,Automotive Repair,Nagpur,93,10,Yes,20/10/2020,16/03/2021
+802,Avamm,Automotive Repair,Mumbai,84,6,No,26/04/2020,28/05/2020
+803,Realblab,Health and beauty,Thane,77,18,No,06/09/2020,23/06/2021
+804,Dablist,Automotive Repair,Nashik,36,3,Yes,13/07/2020,03/05/2020
+805,Skipfire,Health and beauty,Nashik,49,7,Yes,25/02/2021,11/09/2020
+806,Myworks,Engineering,Nagpur,93,5,Yes,07/04/2020,20/04/2021
+807,Tagtune,Retail,Thane,34,20,Yes,02/06/2020,10/11/2020
+808,Skyba,Automotive Repair,Mumbai,20,5,No,10/01/2021,23/11/2020
+809,Youopia,Food and restaurant,Thane,86,17,No,24/04/2021,13/04/2021
+810,Jaloo,Food and restaurant,Mumbai,78,3,Yes,16/05/2021,27/12/2020
+811,Kanoodle,Engineering,Pune,27,19,No,23/05/2021,13/05/2020
+812,Skipfire,Health and beauty,Nashik,100,14,Yes,02/03/2021,06/07/2020
+813,Agimba,Food and restaurant,Pune,21,14,Yes,09/03/2021,20/02/2021
+814,Quinu,Engineering,Mumbai,97,3,Yes,26/02/2021,15/12/2020
+815,Fivechat,Automotive Repair,Thane,30,15,Yes,23/03/2021,21/01/2021
+816,Camido,Retail,Nashik,86,5,Yes,25/04/2021,01/06/2020
+817,Abatz,Fabrication,Nashik,20,14,Yes,11/07/2020,27/03/2021
+818,Topicshots,Food and restaurant,Nagpur,36,15,Yes,21/05/2021,08/04/2020
+819,Yoveo,Automotive Repair,Nashik,89,3,No,13/05/2020,05/12/2020
+820,Jaxworks,Retail,Pune,94,1,No,13/05/2020,25/01/2021
+821,Innotype,Retail,Pune,49,11,Yes,22/01/2021,20/04/2021
+822,Kamba,Automotive Repair,Nagpur,39,14,Yes,14/04/2021,15/03/2021
+823,Eidel,Fabrication,Thane,50,7,Yes,07/06/2020,12/07/2020
+824,Trudoo,Retail,Pune,77,14,No,03/10/2020,06/12/2020
+825,Kwideo,Fabrication,Nagpur,52,12,Yes,16/04/2020,12/04/2021
+826,Jaxworks,Fabrication,Mumbai,52,7,Yes,18/03/2021,26/07/2020
+827,Avavee,Food and restaurant,Pune,99,14,Yes,28/04/2021,04/08/2021
+828,Jabbertype,Automotive Repair,Nagpur,97,3,No,30/08/2020,22/08/2020
+829,Linktype,Retail,Nashik,58,12,No,08/03/2021,26/05/2021
+830,Voonder,Health and beauty,Thane,72,20,No,11/06/2020,17/11/2020
+831,Tambee,Fabrication,Nashik,78,6,Yes,18/06/2020,07/06/2020
+832,Skalith,Fabrication,Thane,100,8,No,21/06/2020,06/10/2020
+833,Zoonder,Automotive Repair,Nashik,80,12,No,12/07/2020,24/08/2021
+834,Jaloo,Fabrication,Pune,25,11,Yes,11/04/2020,22/05/2020
+835,Jaxspan,Food and restaurant,Nagpur,68,19,Yes,25/05/2021,06/06/2020
+836,Blogpad,Automotive Repair,Nagpur,86,16,Yes,19/07/2020,27/05/2021
+837,Fivebridge,Retail,Nashik,42,19,No,30/05/2020,04/09/2020
+838,Rhynyx,Engineering,Nagpur,60,3,Yes,28/04/2020,18/11/2020
+839,Zoombox,Food and restaurant,Mumbai,93,16,Yes,24/10/2020,08/11/2020
+840,Skaboo,Retail,Mumbai,86,15,No,25/06/2021,19/10/2020
+841,Dabjam,Engineering,Thane,32,16,Yes,24/08/2020,15/02/2021
+842,Voolith,Health and beauty,Nashik,62,13,Yes,19/02/2021,14/10/2020
+843,Vitz,Automotive Repair,Mumbai,72,20,Yes,13/06/2020,01/03/2021
+844,Reallinks,Fabrication,Thane,67,1,Yes,22/11/2020,24/05/2021
+845,Oyoloo,Automotive Repair,Pune,55,5,Yes,30/12/2020,25/07/2020
+846,Jabberbean,Engineering,Nashik,93,13,Yes,11/05/2021,02/07/2020
+847,Kwilith,Food and restaurant,Nashik,100,11,Yes,24/09/2020,12/05/2021
+848,Topicshots,Retail,Mumbai,54,7,Yes,20/11/2020,04/06/2020
+849,Oba,Fabrication,Nagpur,36,1,Yes,10/04/2021,13/04/2020
+850,Tagfeed,Retail,Nashik,89,7,Yes,02/06/2020,16/10/2020
+851,Mydo,Automotive Repair,Nagpur,38,15,No,08/01/2021,20/07/2020
+852,Gigashots,Retail,Mumbai,63,5,Yes,30/01/2021,13/08/2020
+853,Vimbo,Fabrication,Pune,32,12,Yes,03/12/2020,25/05/2021
+854,Dabtype,Fabrication,Mumbai,92,18,Yes,29/04/2021,29/11/2020
+855,Rhynyx,Fabrication,Nagpur,69,12,Yes,04/05/2020,29/05/2021
+856,Jabberbean,Engineering,Nagpur,76,2,Yes,17/02/2021,16/05/2020
+857,Riffpedia,Engineering,Nashik,70,15,No,08/05/2020,24/07/2021
+858,Rooxo,Automotive Repair,Thane,86,8,No,14/04/2021,21/11/2020
+859,Skinix,Automotive Repair,Nagpur,73,5,Yes,17/05/2020,15/07/2021
+860,Youbridge,Retail,Mumbai,62,14,Yes,06/06/2020,13/06/2021
+861,Zazio,Retail,Thane,43,19,No,24/12/2020,24/04/2020
+862,Eire,Automotive Repair,Mumbai,56,3,No,04/04/2021,04/06/2021
+863,Skaboo,Food and restaurant,Mumbai,62,7,Yes,30/12/2020,10/07/2020
+864,Eamia,Engineering,Thane,51,10,Yes,27/01/2021,05/06/2020
+865,Gigabox,Engineering,Thane,73,7,No,08/10/2020,19/05/2021
+866,Buzzshare,Automotive Repair,Mumbai,82,2,Yes,15/08/2020,01/02/2021
+867,Eidel,Automotive Repair,Nagpur,86,9,Yes,12/06/2020,27/07/2021
+868,Oloo,Health and beauty,Nashik,79,9,Yes,27/06/2020,16/03/2021
+869,Eabox,Automotive Repair,Nagpur,36,10,No,01/05/2020,11/07/2021
+870,Oyoba,Health and beauty,Pune,37,1,Yes,21/10/2020,14/03/2021
+871,Kwimbee,Retail,Pune,32,5,No,15/08/2020,10/11/2020
+872,Browsetype,Engineering,Mumbai,40,10,Yes,18/06/2020,12/07/2020
+873,Photobean,Health and beauty,Mumbai,44,5,Yes,15/06/2020,22/09/2020
+874,Skipfire,Retail,Nashik,99,8,Yes,22/08/2020,10/04/2021
+875,Tagcat,Automotive Repair,Thane,95,13,Yes,17/08/2020,11/12/2020
+876,Jaxbean,Health and beauty,Mumbai,47,13,No,03/03/2020,29/05/2020
+877,Yambee,Food and restaurant,Pune,22,11,Yes,11/11/2020,06/06/2020
+878,Camido,Engineering,Nagpur,88,19,No,25/03/2021,29/10/2020
+879,Zoozzy,Automotive Repair,Mumbai,34,13,No,13/03/2020,30/05/2020
+880,Dabjam,Fabrication,Thane,71,11,Yes,28/04/2020,10/01/2021
+881,Gabtune,Health and beauty,Nashik,58,11,Yes,28/04/2020,14/05/2021
+882,Wordtune,Fabrication,Nagpur,59,11,Yes,15/02/2021,01/03/2021
+883,Devify,Automotive Repair,Thane,42,7,Yes,14/06/2020,21/07/2021
+884,Leexo,Retail,Mumbai,63,11,Yes,16/11/2020,09/10/2020
+885,Skaboo,Retail,Pune,27,6,Yes,18/05/2020,12/03/2021
+886,Linklinks,Retail,Thane,24,3,No,08/02/2021,11/06/2021
+887,Kwimbee,Fabrication,Nashik,86,11,No,05/01/2021,07/07/2020
+888,Quinu,Automotive Repair,Nashik,39,7,Yes,18/12/2020,27/09/2020
+889,Vipe,Retail,Nashik,94,7,Yes,06/09/2020,26/09/2020
+890,Riffpedia,Fabrication,Nagpur,87,6,No,04/05/2021,01/05/2020
+891,Lajo,Automotive Repair,Mumbai,98,13,Yes,07/02/2021,02/08/2021
+892,Blogpad,Retail,Thane,26,8,No,05/04/2021,19/12/2020
+893,Kwimbee,Food and restaurant,Nagpur,76,11,Yes,24/04/2021,22/04/2021
+894,Tagtune,Fabrication,Nagpur,30,16,Yes,02/08/2020,09/07/2021
+895,Yakidoo,Fabrication,Nashik,83,5,No,01/07/2020,28/10/2020
+896,Eabox,Engineering,Nagpur,89,11,No,26/11/2020,10/06/2021
+897,Rhyloo,Fabrication,Nagpur,93,1,Yes,06/06/2020,22/05/2021
+898,Brainbox,Automotive Repair,Pune,27,18,No,14/03/2021,16/06/2021
+899,Skalith,Retail,Nashik,67,8,Yes,02/05/2020,04/07/2021
+900,Oyoba,Health and beauty,Pune,70,14,Yes,26/05/2021,09/06/2020
+901,Blogpad,Health and beauty,Pune,74,10,No,27/02/2021,19/07/2020
+902,Abatz,Retail,Nagpur,20,14,Yes,06/03/2021,01/07/2021
+903,Fliptune,Health and beauty,Mumbai,26,13,No,08/06/2020,16/07/2021
+904,Tazz,Health and beauty,Nashik,68,18,No,28/05/2020,29/05/2021
+905,Youtags,Fabrication,Nashik,27,2,No,18/08/2020,23/07/2020
+906,Skipfire,Food and restaurant,Thane,31,9,Yes,30/05/2021,19/07/2020
+907,Zoovu,Retail,Nashik,91,8,Yes,22/03/2021,04/02/2021
+908,Quamba,Health and beauty,Mumbai,53,12,No,19/06/2020,01/04/2021
+909,Abata,Food and restaurant,Pune,67,7,No,21/03/2020,10/05/2020
+910,Eamia,Automotive Repair,Mumbai,72,9,No,28/09/2020,16/06/2021
+911,Yacero,Automotive Repair,Thane,90,7,Yes,09/09/2020,01/04/2021
+912,Ooba,Fabrication,Nagpur,58,7,No,26/04/2021,30/09/2020
+913,Brainlounge,Automotive Repair,Nagpur,93,6,Yes,15/05/2020,02/05/2021
+914,Wordify,Automotive Repair,Nagpur,31,1,Yes,12/08/2020,31/12/2020
+915,Chatterbridge,Retail,Nashik,87,20,Yes,25/03/2021,20/01/2021
+916,Jetpulse,Engineering,Nashik,82,12,Yes,22/05/2020,24/05/2021
+917,Browsecat,Engineering,Thane,47,10,No,27/03/2020,12/10/2020
+918,Ailane,Retail,Thane,60,12,No,27/03/2020,28/02/2021
+919,Dabjam,Retail,Nashik,84,3,Yes,29/04/2020,15/08/2021
+920,Zazio,Engineering,Pune,84,19,Yes,07/05/2020,29/01/2021
+921,Fivebridge,Automotive Repair,Mumbai,84,3,Yes,22/04/2020,27/11/2020
+922,Thoughtbridge,Automotive Repair,Pune,38,6,Yes,09/11/2020,21/04/2020
+923,Jetpulse,Automotive Repair,Nashik,73,12,Yes,26/10/2020,28/04/2020
+924,Yombu,Retail,Nagpur,72,2,No,27/03/2020,18/06/2020
+925,Topicblab,Retail,Mumbai,25,19,No,31/01/2021,21/07/2020
+926,Npath,Health and beauty,Mumbai,53,2,Yes,22/03/2021,16/09/2020
+927,Vinder,Retail,Pune,44,7,Yes,26/04/2021,05/12/2020
+928,Roodel,Retail,Nashik,88,16,No,14/09/2020,22/01/2021
+929,Tagpad,Automotive Repair,Nashik,32,20,Yes,09/12/2020,07/07/2020
+930,Photojam,Engineering,Nagpur,60,20,Yes,07/10/2020,13/12/2020
+931,Tagpad,Engineering,Nagpur,86,1,Yes,13/02/2021,31/05/2021
+932,Voonder,Automotive Repair,Thane,94,5,Yes,07/05/2020,14/05/2020
+933,Voomm,Automotive Repair,Nagpur,71,9,No,29/06/2021,05/06/2021
+934,Shufflebeat,Automotive Repair,Thane,54,13,No,24/04/2020,05/04/2021
+935,Youopia,Retail,Pune,24,12,No,31/05/2021,10/03/2021
+936,Yodel,Engineering,Mumbai,32,16,No,20/05/2021,25/05/2020
+937,Kare,Automotive Repair,Pune,98,8,Yes,23/04/2020,03/04/2021
+938,Riffpath,Automotive Repair,Nagpur,44,15,No,13/05/2021,04/03/2021
+939,Browsecat,Engineering,Pune,87,16,Yes,03/12/2020,09/04/2021
+940,Katz,Engineering,Mumbai,38,7,No,13/09/2020,09/01/2021
+941,Devbug,Retail,Pune,32,16,Yes,25/09/2020,03/05/2021
+942,Oyoba,Retail,Nagpur,90,4,Yes,27/04/2020,31/01/2021
+943,Agimba,Food and restaurant,Pune,82,15,Yes,26/02/2021,03/05/2021
+944,Katz,Food and restaurant,Nagpur,28,1,Yes,18/11/2020,07/06/2021
+945,Ainyx,Fabrication,Mumbai,84,10,No,08/09/2020,05/03/2021
+946,Katz,Fabrication,Mumbai,30,10,Yes,01/05/2020,06/12/2020
+947,Wikibox,Fabrication,Mumbai,62,5,No,19/04/2020,27/02/2021
+948,Topiclounge,Retail,Thane,83,15,Yes,15/09/2020,20/03/2021
+949,Jaxnation,Food and restaurant,Mumbai,97,7,No,10/03/2020,30/08/2021
+950,Dabtype,Automotive Repair,Nagpur,26,9,Yes,14/05/2020,23/08/2021
+951,Jabbersphere,Automotive Repair,Pune,21,12,No,05/04/2020,12/05/2021
+952,Topiclounge,Automotive Repair,Nagpur,60,7,No,24/08/2020,08/07/2021
+953,Zooxo,Health and beauty,Thane,90,6,No,06/02/2021,09/08/2021
+954,Babbleset,Automotive Repair,Nagpur,48,6,Yes,29/05/2021,03/05/2021
+955,Buzzdog,Fabrication,Thane,33,2,Yes,10/04/2021,22/06/2020
+956,Quatz,Automotive Repair,Nagpur,54,12,No,18/06/2021,26/09/2020
+957,Mydo,Fabrication,Nashik,41,2,No,25/11/2020,27/11/2020
+958,Yombu,Automotive Repair,Nagpur,27,14,Yes,14/03/2020,23/01/2021
+959,Mycat,Engineering,Nagpur,89,6,No,28/12/2020,02/10/2020
+960,Tagcat,Health and beauty,Pune,80,2,Yes,06/04/2020,29/10/2020
+961,Twitterbridge,Fabrication,Pune,53,1,No,04/05/2020,27/05/2021
+962,DabZ,Health and beauty,Mumbai,83,17,No,20/09/2020,09/01/2021
+963,Zoovu,Food and restaurant,Nashik,31,20,Yes,05/11/2020,13/11/2020
+964,Fivespan,Fabrication,Nagpur,97,20,Yes,04/05/2021,31/10/2020
+965,Photobug,Fabrication,Nagpur,37,15,No,27/08/2020,25/05/2020
+966,Izio,Fabrication,Nagpur,23,13,Yes,24/04/2020,05/08/2020
+967,Jayo,Automotive Repair,Nashik,46,12,No,29/05/2020,07/04/2020
+968,Camido,Retail,Mumbai,74,1,No,29/12/2020,23/10/2020
+969,Feedmix,Automotive Repair,Nagpur,78,10,Yes,08/03/2021,30/05/2021
+970,Oyoloo,Engineering,Pune,99,20,Yes,21/01/2021,16/12/2020
+971,Oba,Engineering,Nashik,92,19,Yes,18/03/2020,30/07/2020
+972,Livepath,Health and beauty,Nagpur,36,16,No,29/12/2020,16/10/2020
+973,Edgepulse,Retail,Nashik,41,15,Yes,27/03/2020,13/06/2021
+974,Viva,Engineering,Nashik,30,8,Yes,24/05/2021,10/05/2021
+975,Quinu,Health and beauty,Pune,35,8,Yes,22/03/2021,22/04/2020
+976,Livepath,Automotive Repair,Nagpur,41,13,Yes,19/09/2020,30/04/2021
+977,Minyx,Retail,Pune,47,15,Yes,20/07/2020,17/03/2021
+978,Realbridge,Retail,Thane,49,18,Yes,22/06/2021,09/04/2020
+979,Flashset,Food and restaurant,Thane,31,20,Yes,10/01/2021,14/04/2020
+980,Zoozzy,Food and restaurant,Nashik,55,12,No,05/04/2021,02/07/2021
+981,Skippad,Food and restaurant,Nagpur,88,3,Yes,24/07/2020,10/09/2020
+982,Photojam,Fabrication,Nashik,32,18,No,21/03/2021,01/07/2020
+983,Yodel,Automotive Repair,Nagpur,70,20,Yes,23/03/2021,25/07/2020
+984,Browsedrive,Automotive Repair,Nagpur,57,11,Yes,02/05/2021,03/04/2021
+985,Twinte,Health and beauty,Nagpur,29,7,Yes,23/08/2020,13/09/2020
+986,Trunyx,Engineering,Mumbai,62,7,Yes,13/11/2020,10/12/2020
+987,Jetpulse,Automotive Repair,Pune,66,7,Yes,11/06/2020,09/03/2021
+988,Oyondu,Automotive Repair,Nashik,37,14,No,03/01/2021,27/01/2021
+989,Tazzy,Automotive Repair,Thane,25,7,Yes,26/03/2020,14/08/2020
+990,Leenti,Retail,Nashik,21,17,Yes,13/09/2020,05/10/2020
+991,Skajo,Automotive Repair,Nashik,55,11,Yes,04/06/2021,09/08/2021
+992,Gabvine,Retail,Thane,58,3,No,23/02/2021,04/01/2021
+993,Fivebridge,Automotive Repair,Mumbai,49,1,Yes,16/01/2021,26/09/2020
+994,Youspan,Health and beauty,Nagpur,55,9,Yes,29/04/2020,06/10/2020
+995,Flipopia,Retail,Pune,70,10,Yes,18/02/2021,22/03/2021
+996,Photobean,Food and restaurant,Nashik,81,16,Yes,06/05/2020,10/09/2020
+997,Rhyloo,Retail,Nagpur,38,2,Yes,01/09/2020,20/05/2020
+998,Wordtune,Automotive Repair,Nagpur,77,13,No,06/04/2020,13/05/2020
+999,Edgeblab,Retail,Pune,55,16,No,28/10/2020,18/07/2020
+1000,Yakitri,Engineering,Nagpur,48,7,No,14/11/2020,08/05/2021

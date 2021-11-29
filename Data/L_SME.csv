@@ -1,0 +1,1001 @@
+L_id,Sector,City,No of employees available,Window_ID
+1,Construction,Nashik,137,1
+2,Transport & Logistics,Pune,80,6
+3,Textile,Kolkata,122,2
+4,Textile,Kolkata,87,5
+5,Transport & Logistics,Nagpur,120,5
+6,Electronics,Pune,73,2
+7,Construction,Kolkata,75,3
+8,Construction,Bangalore,15,6
+9,Automobile,Nashik,80,3
+10,Electronics,Mumbai,25,1
+11,Construction,Nagpur,122,2
+12,Electronics,Pune,141,3
+13,Transport & Logistics,Nagpur,37,4
+14,Automobile,Kolkata,20,6
+15,Automobile,Pune,53,4
+16,Textile,Pune,20,1
+17,Agri Products,Nashik,10,3
+18,Construction,Bangalore,116,4
+19,Transport & Logistics,Nagpur,8,2
+20,Automobile,Bangalore,92,5
+21,Agri Products,Pune,98,5
+22,Agri Products,Pune,44,1
+23,Transport & Logistics,Nagpur,71,2
+24,Electronics,Nashik,62,6
+25,Transport & Logistics,Bangalore,113,1
+26,Automobile,Bangalore,27,4
+27,Automobile,Nagpur,113,3
+28,Textile,Kolkata,73,2
+29,Electronics,Bangalore,141,6
+30,Electronics,Pune,31,6
+31,Construction,Mumbai,36,2
+32,Electronics,Kolkata,144,4
+33,Agri Products,Nashik,67,3
+34,Construction,Mumbai,122,6
+35,Electronics,Bangalore,100,4
+36,Electronics,Nashik,15,6
+37,Transport & Logistics,Kolkata,104,2
+38,Automobile,Kolkata,108,6
+39,Construction,Mumbai,21,1
+40,Agri Products,Nashik,84,4
+41,Electronics,Nashik,22,5
+42,Automobile,Kolkata,52,4
+43,Construction,Kolkata,147,1
+44,Textile,Pune,135,1
+45,Transport & Logistics,Pune,36,6
+46,Automobile,Bangalore,44,3
+47,Construction,Nagpur,143,4
+48,Transport & Logistics,Pune,43,6
+49,Agri Products,Nagpur,92,6
+50,Construction,Mumbai,77,1
+51,Transport & Logistics,Mumbai,93,2
+52,Construction,Mumbai,11,6
+53,Agri Products,Kolkata,64,2
+54,Electronics,Kolkata,126,3
+55,Transport & Logistics,Mumbai,68,5
+56,Textile,Mumbai,58,1
+57,Electronics,Pune,77,4
+58,Textile,Bangalore,13,5
+59,Agri Products,Mumbai,103,2
+60,Electronics,Mumbai,91,1
+61,Automobile,Pune,110,4
+62,Electronics,Nashik,49,4
+63,Agri Products,Kolkata,144,4
+64,Electronics,Bangalore,2,1
+65,Transport & Logistics,Kolkata,36,1
+66,Textile,Pune,43,1
+67,Textile,Nashik,120,5
+68,Agri Products,Mumbai,49,4
+69,Transport & Logistics,Nagpur,2,2
+70,Transport & Logistics,Kolkata,150,5
+71,Automobile,Nagpur,26,4
+72,Electronics,Nashik,26,3
+73,Construction,Bangalore,39,5
+74,Textile,Kolkata,40,2
+75,Automobile,Nashik,79,6
+76,Automobile,Mumbai,67,3
+77,Construction,Nagpur,35,3
+78,Textile,Kolkata,72,2
+79,Automobile,Nagpur,40,2
+80,Agri Products,Nashik,96,1
+81,Electronics,Kolkata,142,3
+82,Automobile,Mumbai,97,1
+83,Construction,Mumbai,26,1
+84,Electronics,Nashik,10,2
+85,Agri Products,Nagpur,115,5
+86,Construction,Mumbai,72,3
+87,Automobile,Nashik,54,5
+88,Construction,Pune,81,3
+89,Agri Products,Pune,137,6
+90,Automobile,Nashik,106,4
+91,Transport & Logistics,Mumbai,54,1
+92,Electronics,Bangalore,123,6
+93,Construction,Nashik,6,6
+94,Agri Products,Kolkata,62,6
+95,Automobile,Mumbai,137,3
+96,Agri Products,Nashik,48,4
+97,Automobile,Nashik,40,5
+98,Transport & Logistics,Mumbai,5,2
+99,Agri Products,Pune,134,1
+100,Agri Products,Pune,91,1
+101,Transport & Logistics,Mumbai,81,1
+102,Automobile,Kolkata,76,1
+103,Agri Products,Nagpur,122,6
+104,Automobile,Nagpur,79,3
+105,Electronics,Kolkata,7,1
+106,Transport & Logistics,Kolkata,144,4
+107,Transport & Logistics,Mumbai,60,6
+108,Textile,Bangalore,136,3
+109,Construction,Pune,13,2
+110,Construction,Bangalore,68,5
+111,Electronics,Pune,38,6
+112,Electronics,Kolkata,114,5
+113,Construction,Nagpur,77,4
+114,Transport & Logistics,Nagpur,87,6
+115,Electronics,Pune,19,6
+116,Construction,Nagpur,131,2
+117,Textile,Pune,101,5
+118,Textile,Mumbai,2,3
+119,Textile,Nagpur,120,4
+120,Automobile,Kolkata,6,6
+121,Construction,Pune,22,1
+122,Electronics,Mumbai,40,4
+123,Automobile,Bangalore,122,5
+124,Automobile,Nagpur,32,6
+125,Construction,Mumbai,93,2
+126,Electronics,Bangalore,72,6
+127,Transport & Logistics,Bangalore,83,3
+128,Automobile,Mumbai,4,2
+129,Construction,Nagpur,87,4
+130,Construction,Nashik,78,4
+131,Textile,Pune,13,5
+132,Agri Products,Pune,43,4
+133,Construction,Pune,38,1
+134,Transport & Logistics,Bangalore,76,6
+135,Automobile,Nashik,87,4
+136,Electronics,Mumbai,50,3
+137,Agri Products,Nashik,79,2
+138,Construction,Kolkata,131,4
+139,Transport & Logistics,Nashik,31,6
+140,Automobile,Nashik,137,6
+141,Construction,Nashik,47,5
+142,Textile,Nashik,116,2
+143,Textile,Bangalore,102,5
+144,Textile,Mumbai,47,4
+145,Electronics,Mumbai,115,3
+146,Electronics,Mumbai,36,5
+147,Agri Products,Mumbai,46,5
+148,Transport & Logistics,Bangalore,52,4
+149,Transport & Logistics,Nashik,66,5
+150,Electronics,Bangalore,24,4
+151,Electronics,Nagpur,121,5
+152,Construction,Pune,110,5
+153,Construction,Mumbai,45,2
+154,Transport & Logistics,Kolkata,61,4
+155,Construction,Kolkata,20,3
+156,Electronics,Pune,59,1
+157,Transport & Logistics,Bangalore,25,6
+158,Automobile,Bangalore,130,3
+159,Construction,Kolkata,96,1
+160,Construction,Nagpur,64,3
+161,Automobile,Pune,52,6
+162,Transport & Logistics,Kolkata,104,5
+163,Electronics,Nashik,44,6
+164,Agri Products,Bangalore,82,6
+165,Automobile,Mumbai,149,3
+166,Textile,Mumbai,73,4
+167,Automobile,Bangalore,9,4
+168,Automobile,Nashik,65,4
+169,Transport & Logistics,Pune,4,4
+170,Agri Products,Nashik,122,3
+171,Construction,Mumbai,22,4
+172,Construction,Nagpur,147,5
+173,Construction,Pune,1,4
+174,Transport & Logistics,Bangalore,110,3
+175,Transport & Logistics,Nagpur,93,2
+176,Textile,Nagpur,134,4
+177,Automobile,Nashik,81,3
+178,Electronics,Mumbai,37,3
+179,Automobile,Pune,6,2
+180,Electronics,Kolkata,97,2
+181,Construction,Pune,116,1
+182,Agri Products,Nashik,23,5
+183,Transport & Logistics,Pune,18,5
+184,Transport & Logistics,Bangalore,140,2
+185,Electronics,Mumbai,17,3
+186,Textile,Kolkata,81,1
+187,Textile,Kolkata,138,4
+188,Construction,Mumbai,115,6
+189,Electronics,Pune,135,6
+190,Transport & Logistics,Mumbai,109,6
+191,Agri Products,Kolkata,133,1
+192,Automobile,Pune,148,5
+193,Construction,Mumbai,139,1
+194,Transport & Logistics,Nagpur,71,6
+195,Construction,Mumbai,14,2
+196,Transport & Logistics,Nashik,118,2
+197,Agri Products,Bangalore,38,1
+198,Automobile,Bangalore,104,4
+199,Agri Products,Pune,19,4
+200,Textile,Kolkata,106,4
+201,Agri Products,Bangalore,65,3
+202,Transport & Logistics,Bangalore,147,1
+203,Construction,Pune,112,4
+204,Textile,Mumbai,109,6
+205,Textile,Nagpur,97,4
+206,Electronics,Nagpur,79,6
+207,Transport & Logistics,Mumbai,129,2
+208,Electronics,Kolkata,42,6
+209,Transport & Logistics,Kolkata,19,5
+210,Construction,Bangalore,148,2
+211,Agri Products,Mumbai,135,5
+212,Agri Products,Bangalore,42,5
+213,Agri Products,Nashik,147,2
+214,Automobile,Kolkata,84,2
+215,Construction,Pune,29,3
+216,Automobile,Bangalore,61,2
+217,Construction,Kolkata,135,5
+218,Automobile,Mumbai,36,2
+219,Construction,Bangalore,95,5
+220,Agri Products,Mumbai,45,2
+221,Automobile,Mumbai,59,6
+222,Construction,Kolkata,72,2
+223,Automobile,Bangalore,98,2
+224,Textile,Bangalore,150,6
+225,Agri Products,Nagpur,133,4
+226,Automobile,Bangalore,103,5
+227,Automobile,Kolkata,38,2
+228,Agri Products,Kolkata,66,4
+229,Construction,Nashik,97,5
+230,Automobile,Kolkata,53,4
+231,Automobile,Kolkata,13,6
+232,Textile,Bangalore,129,2
+233,Transport & Logistics,Nagpur,97,3
+234,Textile,Mumbai,78,6
+235,Textile,Nashik,96,3
+236,Agri Products,Bangalore,25,2
+237,Transport & Logistics,Mumbai,150,5
+238,Textile,Kolkata,92,3
+239,Transport & Logistics,Mumbai,1,1
+240,Agri Products,Mumbai,130,1
+241,Textile,Mumbai,57,3
+242,Transport & Logistics,Kolkata,74,1
+243,Automobile,Nashik,53,3
+244,Textile,Bangalore,130,6
+245,Transport & Logistics,Mumbai,108,6
+246,Construction,Mumbai,139,6
+247,Agri Products,Nagpur,39,5
+248,Automobile,Pune,90,5
+249,Construction,Bangalore,20,6
+250,Automobile,Mumbai,82,4
+251,Textile,Kolkata,23,6
+252,Automobile,Pune,6,1
+253,Electronics,Nagpur,1,5
+254,Textile,Kolkata,16,2
+255,Agri Products,Kolkata,40,1
+256,Electronics,Mumbai,149,2
+257,Automobile,Pune,12,5
+258,Electronics,Nagpur,57,6
+259,Agri Products,Pune,10,1
+260,Electronics,Pune,40,2
+261,Automobile,Nagpur,106,1
+262,Textile,Pune,20,3
+263,Electronics,Nashik,130,3
+264,Construction,Kolkata,75,3
+265,Electronics,Nagpur,90,5
+266,Agri Products,Bangalore,68,2
+267,Transport & Logistics,Nashik,139,1
+268,Transport & Logistics,Nagpur,143,2
+269,Construction,Bangalore,102,4
+270,Textile,Kolkata,66,5
+271,Electronics,Nashik,42,4
+272,Agri Products,Kolkata,26,2
+273,Electronics,Pune,26,4
+274,Agri Products,Nagpur,59,2
+275,Transport & Logistics,Kolkata,29,5
+276,Agri Products,Pune,56,3
+277,Electronics,Nagpur,44,2
+278,Textile,Kolkata,112,6
+279,Automobile,Nagpur,76,6
+280,Agri Products,Bangalore,112,5
+281,Textile,Nagpur,51,3
+282,Automobile,Pune,104,2
+283,Textile,Kolkata,109,6
+284,Electronics,Kolkata,134,6
+285,Automobile,Nagpur,120,1
+286,Transport & Logistics,Kolkata,82,6
+287,Agri Products,Mumbai,69,2
+288,Automobile,Mumbai,31,1
+289,Automobile,Bangalore,68,3
+290,Textile,Nashik,89,6
+291,Electronics,Nashik,112,6
+292,Agri Products,Kolkata,102,5
+293,Textile,Pune,107,3
+294,Electronics,Nagpur,58,6
+295,Agri Products,Nagpur,77,6
+296,Construction,Pune,64,3
+297,Transport & Logistics,Pune,40,6
+298,Construction,Nashik,7,1
+299,Transport & Logistics,Bangalore,135,5
+300,Automobile,Nagpur,41,2
+301,Electronics,Nashik,29,2
+302,Transport & Logistics,Nashik,137,5
+303,Transport & Logistics,Nagpur,114,2
+304,Construction,Bangalore,54,2
+305,Transport & Logistics,Nashik,28,2
+306,Agri Products,Mumbai,122,4
+307,Electronics,Pune,86,3
+308,Transport & Logistics,Nagpur,94,4
+309,Automobile,Kolkata,16,3
+310,Transport & Logistics,Pune,146,1
+311,Textile,Nashik,135,2
+312,Agri Products,Nagpur,12,3
+313,Construction,Nagpur,2,3
+314,Transport & Logistics,Nagpur,102,1
+315,Electronics,Pune,48,5
+316,Agri Products,Nashik,61,4
+317,Agri Products,Bangalore,129,2
+318,Automobile,Nagpur,85,2
+319,Construction,Kolkata,126,3
+320,Transport & Logistics,Mumbai,150,4
+321,Agri Products,Bangalore,36,4
+322,Agri Products,Pune,45,5
+323,Textile,Kolkata,42,3
+324,Agri Products,Bangalore,80,1
+325,Electronics,Bangalore,120,6
+326,Automobile,Nashik,23,1
+327,Automobile,Mumbai,53,6
+328,Textile,Nagpur,143,1
+329,Construction,Kolkata,43,6
+330,Electronics,Pune,127,3
+331,Textile,Pune,107,3
+332,Automobile,Bangalore,58,5
+333,Construction,Mumbai,62,6
+334,Agri Products,Pune,61,3
+335,Electronics,Mumbai,21,6
+336,Transport & Logistics,Nashik,28,2
+337,Transport & Logistics,Mumbai,129,5
+338,Transport & Logistics,Mumbai,32,6
+339,Textile,Nagpur,56,1
+340,Construction,Pune,34,4
+341,Transport & Logistics,Pune,136,2
+342,Automobile,Bangalore,117,3
+343,Transport & Logistics,Pune,67,4
+344,Transport & Logistics,Pune,1,6
+345,Automobile,Pune,143,1
+346,Textile,Mumbai,66,1
+347,Textile,Nashik,66,5
+348,Textile,Kolkata,142,4
+349,Textile,Pune,118,1
+350,Automobile,Pune,134,5
+351,Automobile,Bangalore,33,6
+352,Textile,Pune,86,1
+353,Construction,Nagpur,121,5
+354,Agri Products,Mumbai,136,2
+355,Automobile,Kolkata,35,6
+356,Electronics,Bangalore,5,2
+357,Construction,Nashik,99,3
+358,Transport & Logistics,Nagpur,100,5
+359,Transport & Logistics,Mumbai,58,2
+360,Construction,Nagpur,122,2
+361,Automobile,Mumbai,65,3
+362,Construction,Bangalore,88,5
+363,Transport & Logistics,Nashik,57,5
+364,Textile,Kolkata,81,2
+365,Automobile,Kolkata,111,2
+366,Construction,Nagpur,115,3
+367,Agri Products,Kolkata,41,4
+368,Textile,Nashik,37,3
+369,Automobile,Nagpur,126,2
+370,Agri Products,Nashik,6,2
+371,Electronics,Nashik,111,2
+372,Electronics,Kolkata,15,3
+373,Transport & Logistics,Bangalore,21,2
+374,Agri Products,Pune,95,2
+375,Automobile,Nagpur,133,2
+376,Agri Products,Pune,65,2
+377,Textile,Mumbai,103,3
+378,Textile,Nagpur,90,5
+379,Agri Products,Pune,61,4
+380,Automobile,Pune,1,4
+381,Electronics,Pune,120,6
+382,Transport & Logistics,Bangalore,98,4
+383,Transport & Logistics,Kolkata,46,1
+384,Electronics,Bangalore,71,5
+385,Automobile,Mumbai,115,2
+386,Textile,Pune,109,5
+387,Construction,Kolkata,31,4
+388,Automobile,Pune,85,5
+389,Transport & Logistics,Mumbai,57,4
+390,Textile,Kolkata,98,3
+391,Construction,Nashik,7,4
+392,Transport & Logistics,Nagpur,4,2
+393,Electronics,Kolkata,150,5
+394,Automobile,Bangalore,142,2
+395,Automobile,Bangalore,26,6
+396,Transport & Logistics,Nashik,68,6
+397,Construction,Bangalore,48,4
+398,Transport & Logistics,Kolkata,85,6
+399,Electronics,Mumbai,117,6
+400,Automobile,Mumbai,92,4
+401,Construction,Nashik,64,1
+402,Agri Products,Nashik,65,1
+403,Construction,Nashik,122,1
+404,Automobile,Bangalore,66,3
+405,Transport & Logistics,Mumbai,89,5
+406,Agri Products,Pune,64,5
+407,Textile,Nashik,69,3
+408,Textile,Bangalore,37,1
+409,Textile,Mumbai,11,2
+410,Automobile,Mumbai,46,4
+411,Agri Products,Mumbai,120,1
+412,Construction,Bangalore,17,5
+413,Agri Products,Bangalore,96,4
+414,Agri Products,Mumbai,90,2
+415,Textile,Pune,77,2
+416,Transport & Logistics,Bangalore,46,2
+417,Textile,Nagpur,110,1
+418,Automobile,Bangalore,38,1
+419,Electronics,Mumbai,57,4
+420,Transport & Logistics,Pune,50,1
+421,Electronics,Pune,13,3
+422,Automobile,Nagpur,112,6
+423,Construction,Kolkata,66,6
+424,Automobile,Bangalore,17,1
+425,Construction,Mumbai,132,3
+426,Textile,Nagpur,142,1
+427,Electronics,Bangalore,18,2
+428,Agri Products,Kolkata,137,4
+429,Transport & Logistics,Kolkata,124,4
+430,Electronics,Pune,101,1
+431,Electronics,Pune,80,4
+432,Electronics,Pune,38,5
+433,Transport & Logistics,Nashik,21,1
+434,Construction,Kolkata,99,5
+435,Agri Products,Pune,90,4
+436,Electronics,Nashik,61,5
+437,Electronics,Nagpur,73,3
+438,Transport & Logistics,Nagpur,79,5
+439,Agri Products,Kolkata,56,6
+440,Electronics,Bangalore,41,2
+441,Agri Products,Mumbai,75,4
+442,Textile,Bangalore,116,2
+443,Textile,Nagpur,61,4
+444,Transport & Logistics,Bangalore,128,5
+445,Textile,Kolkata,55,4
+446,Transport & Logistics,Nagpur,149,2
+447,Electronics,Pune,112,4
+448,Automobile,Bangalore,57,2
+449,Agri Products,Mumbai,106,3
+450,Electronics,Mumbai,74,3
+451,Automobile,Nagpur,118,5
+452,Transport & Logistics,Nagpur,17,5
+453,Automobile,Nashik,79,4
+454,Agri Products,Kolkata,126,2
+455,Automobile,Kolkata,12,6
+456,Textile,Nagpur,81,3
+457,Textile,Nagpur,117,4
+458,Transport & Logistics,Kolkata,6,5
+459,Textile,Kolkata,124,4
+460,Automobile,Pune,138,6
+461,Electronics,Nashik,111,5
+462,Electronics,Pune,112,4
+463,Automobile,Bangalore,45,3
+464,Automobile,Pune,121,6
+465,Automobile,Bangalore,48,5
+466,Transport & Logistics,Nashik,104,1
+467,Automobile,Pune,109,1
+468,Automobile,Pune,36,4
+469,Electronics,Pune,16,3
+470,Automobile,Mumbai,43,3
+471,Transport & Logistics,Pune,98,3
+472,Agri Products,Bangalore,82,1
+473,Electronics,Nashik,90,5
+474,Construction,Pune,11,3
+475,Electronics,Nagpur,124,4
+476,Textile,Bangalore,142,5
+477,Construction,Bangalore,147,2
+478,Transport & Logistics,Nashik,94,1
+479,Textile,Nashik,18,2
+480,Textile,Mumbai,61,3
+481,Agri Products,Nashik,91,6
+482,Automobile,Mumbai,73,6
+483,Transport & Logistics,Nashik,27,1
+484,Construction,Nashik,14,6
+485,Automobile,Pune,126,1
+486,Textile,Kolkata,38,5
+487,Electronics,Pune,114,3
+488,Electronics,Mumbai,142,5
+489,Construction,Nashik,58,2
+490,Construction,Nashik,103,4
+491,Automobile,Bangalore,74,1
+492,Transport & Logistics,Mumbai,31,1
+493,Transport & Logistics,Nashik,150,6
+494,Construction,Mumbai,49,5
+495,Construction,Pune,135,1
+496,Automobile,Pune,32,4
+497,Automobile,Pune,118,2
+498,Transport & Logistics,Bangalore,12,2
+499,Agri Products,Bangalore,46,6
+500,Transport & Logistics,Nashik,3,6
+501,Automobile,Kolkata,34,4
+502,Construction,Nagpur,149,6
+503,Electronics,Kolkata,62,4
+504,Automobile,Bangalore,22,6
+505,Agri Products,Pune,22,2
+506,Construction,Mumbai,134,4
+507,Electronics,Nagpur,77,4
+508,Electronics,Kolkata,122,3
+509,Automobile,Kolkata,118,2
+510,Textile,Mumbai,140,6
+511,Agri Products,Nagpur,128,3
+512,Electronics,Bangalore,68,3
+513,Agri Products,Mumbai,122,4
+514,Agri Products,Nagpur,126,4
+515,Electronics,Mumbai,103,2
+516,Transport & Logistics,Nashik,136,6
+517,Automobile,Bangalore,143,2
+518,Electronics,Bangalore,16,5
+519,Transport & Logistics,Pune,82,1
+520,Construction,Pune,26,4
+521,Agri Products,Pune,52,5
+522,Electronics,Nagpur,139,1
+523,Automobile,Mumbai,144,6
+524,Construction,Bangalore,118,6
+525,Construction,Bangalore,10,4
+526,Construction,Nagpur,91,2
+527,Transport & Logistics,Bangalore,112,3
+528,Transport & Logistics,Bangalore,20,6
+529,Electronics,Bangalore,112,1
+530,Textile,Mumbai,66,3
+531,Agri Products,Kolkata,8,1
+532,Electronics,Bangalore,51,4
+533,Construction,Nashik,5,5
+534,Textile,Bangalore,93,4
+535,Construction,Bangalore,129,4
+536,Agri Products,Bangalore,128,3
+537,Electronics,Nashik,21,3
+538,Electronics,Bangalore,31,3
+539,Agri Products,Mumbai,59,3
+540,Construction,Pune,74,6
+541,Construction,Bangalore,4,5
+542,Textile,Bangalore,39,2
+543,Construction,Mumbai,98,1
+544,Electronics,Nashik,58,3
+545,Electronics,Nashik,120,1
+546,Automobile,Nashik,108,1
+547,Automobile,Pune,88,4
+548,Textile,Nashik,48,1
+549,Transport & Logistics,Bangalore,60,5
+550,Construction,Nashik,10,3
+551,Textile,Kolkata,115,2
+552,Textile,Nagpur,30,1
+553,Automobile,Pune,5,5
+554,Transport & Logistics,Bangalore,25,3
+555,Construction,Mumbai,64,5
+556,Automobile,Nashik,112,2
+557,Transport & Logistics,Mumbai,60,6
+558,Textile,Bangalore,44,5
+559,Automobile,Nagpur,42,2
+560,Agri Products,Pune,75,5
+561,Electronics,Bangalore,4,1
+562,Electronics,Nashik,43,1
+563,Automobile,Pune,56,6
+564,Electronics,Nashik,134,1
+565,Textile,Kolkata,59,3
+566,Textile,Nagpur,138,3
+567,Agri Products,Kolkata,7,5
+568,Agri Products,Nagpur,48,3
+569,Transport & Logistics,Bangalore,39,6
+570,Transport & Logistics,Nagpur,142,6
+571,Agri Products,Mumbai,87,5
+572,Automobile,Nagpur,121,2
+573,Electronics,Nagpur,107,6
+574,Transport & Logistics,Nagpur,85,3
+575,Textile,Kolkata,116,4
+576,Transport & Logistics,Mumbai,120,5
+577,Agri Products,Mumbai,63,1
+578,Electronics,Pune,94,5
+579,Transport & Logistics,Nashik,91,6
+580,Electronics,Nagpur,43,4
+581,Construction,Mumbai,146,5
+582,Automobile,Pune,55,3
+583,Textile,Kolkata,104,3
+584,Transport & Logistics,Mumbai,69,2
+585,Construction,Mumbai,31,5
+586,Textile,Bangalore,120,1
+587,Agri Products,Bangalore,14,2
+588,Agri Products,Bangalore,121,3
+589,Construction,Bangalore,110,3
+590,Construction,Nagpur,62,3
+591,Electronics,Kolkata,19,3
+592,Textile,Nagpur,45,6
+593,Electronics,Pune,147,4
+594,Automobile,Nashik,65,6
+595,Automobile,Bangalore,142,2
+596,Agri Products,Pune,141,1
+597,Textile,Nashik,16,6
+598,Textile,Bangalore,49,6
+599,Textile,Pune,140,4
+600,Transport & Logistics,Nagpur,114,5
+601,Transport & Logistics,Bangalore,2,3
+602,Textile,Nashik,2,6
+603,Construction,Pune,27,1
+604,Agri Products,Kolkata,131,4
+605,Agri Products,Mumbai,55,3
+606,Transport & Logistics,Pune,77,3
+607,Textile,Nashik,118,3
+608,Textile,Pune,10,2
+609,Agri Products,Kolkata,34,4
+610,Electronics,Nashik,42,2
+611,Textile,Mumbai,110,1
+612,Agri Products,Bangalore,96,4
+613,Textile,Pune,100,1
+614,Electronics,Pune,23,2
+615,Construction,Mumbai,46,6
+616,Electronics,Nagpur,84,3
+617,Agri Products,Nashik,133,5
+618,Electronics,Nashik,64,2
+619,Textile,Mumbai,77,2
+620,Textile,Nashik,137,5
+621,Transport & Logistics,Mumbai,51,3
+622,Automobile,Mumbai,18,5
+623,Transport & Logistics,Nashik,98,2
+624,Electronics,Nagpur,149,4
+625,Construction,Nashik,53,3
+626,Transport & Logistics,Mumbai,135,5
+627,Electronics,Mumbai,89,2
+628,Transport & Logistics,Nagpur,134,1
+629,Agri Products,Bangalore,8,6
+630,Textile,Kolkata,59,6
+631,Agri Products,Kolkata,84,6
+632,Agri Products,Pune,27,5
+633,Transport & Logistics,Mumbai,149,3
+634,Textile,Pune,149,2
+635,Automobile,Kolkata,77,4
+636,Electronics,Pune,102,6
+637,Agri Products,Pune,41,5
+638,Construction,Nashik,142,5
+639,Transport & Logistics,Kolkata,41,6
+640,Construction,Pune,48,2
+641,Agri Products,Mumbai,69,6
+642,Automobile,Mumbai,128,6
+643,Automobile,Kolkata,108,1
+644,Textile,Nagpur,135,1
+645,Transport & Logistics,Mumbai,118,4
+646,Electronics,Mumbai,45,3
+647,Automobile,Mumbai,38,1
+648,Agri Products,Bangalore,76,1
+649,Agri Products,Nagpur,123,1
+650,Automobile,Mumbai,14,5
+651,Automobile,Nashik,146,4
+652,Agri Products,Mumbai,30,2
+653,Construction,Nashik,88,3
+654,Transport & Logistics,Kolkata,75,6
+655,Automobile,Nashik,107,2
+656,Construction,Kolkata,82,6
+657,Construction,Mumbai,113,2
+658,Textile,Mumbai,88,4
+659,Automobile,Kolkata,97,4
+660,Transport & Logistics,Pune,125,1
+661,Agri Products,Bangalore,6,3
+662,Construction,Nashik,144,5
+663,Textile,Mumbai,61,3
+664,Automobile,Nagpur,99,6
+665,Construction,Kolkata,72,2
+666,Construction,Bangalore,125,3
+667,Transport & Logistics,Mumbai,16,5
+668,Transport & Logistics,Nagpur,95,5
+669,Agri Products,Kolkata,132,3
+670,Automobile,Nagpur,72,1
+671,Electronics,Nagpur,66,5
+672,Transport & Logistics,Kolkata,110,2
+673,Transport & Logistics,Bangalore,16,6
+674,Automobile,Nashik,93,3
+675,Textile,Mumbai,127,4
+676,Agri Products,Pune,78,6
+677,Transport & Logistics,Nashik,105,1
+678,Textile,Mumbai,78,5
+679,Transport & Logistics,Mumbai,145,1
+680,Agri Products,Mumbai,108,2
+681,Automobile,Kolkata,66,4
+682,Agri Products,Kolkata,117,5
+683,Transport & Logistics,Bangalore,17,4
+684,Transport & Logistics,Nagpur,140,2
+685,Automobile,Nashik,150,5
+686,Electronics,Pune,48,1
+687,Textile,Bangalore,86,1
+688,Textile,Bangalore,138,5
+689,Textile,Nagpur,93,2
+690,Automobile,Nagpur,50,1
+691,Agri Products,Nagpur,53,6
+692,Automobile,Nagpur,2,6
+693,Textile,Mumbai,7,5
+694,Textile,Nashik,4,2
+695,Agri Products,Nagpur,5,5
+696,Agri Products,Nagpur,18,5
+697,Construction,Pune,15,6
+698,Construction,Nashik,19,6
+699,Automobile,Nagpur,87,1
+700,Textile,Kolkata,76,2
+701,Construction,Pune,28,1
+702,Agri Products,Bangalore,97,4
+703,Electronics,Kolkata,63,4
+704,Transport & Logistics,Kolkata,28,6
+705,Transport & Logistics,Kolkata,86,2
+706,Textile,Kolkata,14,6
+707,Construction,Nashik,65,6
+708,Electronics,Nagpur,107,3
+709,Textile,Nashik,52,6
+710,Construction,Mumbai,23,6
+711,Electronics,Bangalore,19,1
+712,Construction,Mumbai,30,2
+713,Agri Products,Nashik,109,4
+714,Construction,Bangalore,113,1
+715,Textile,Kolkata,72,6
+716,Agri Products,Mumbai,114,1
+717,Automobile,Kolkata,117,5
+718,Construction,Kolkata,7,2
+719,Electronics,Bangalore,44,1
+720,Electronics,Pune,73,5
+721,Electronics,Mumbai,37,6
+722,Electronics,Pune,119,4
+723,Construction,Mumbai,62,6
+724,Transport & Logistics,Kolkata,78,4
+725,Agri Products,Nashik,15,3
+726,Transport & Logistics,Nagpur,28,5
+727,Electronics,Pune,27,6
+728,Transport & Logistics,Pune,110,6
+729,Automobile,Mumbai,135,2
+730,Transport & Logistics,Mumbai,7,6
+731,Transport & Logistics,Bangalore,19,1
+732,Transport & Logistics,Mumbai,143,3
+733,Agri Products,Bangalore,15,2
+734,Transport & Logistics,Nashik,5,6
+735,Transport & Logistics,Nagpur,64,1
+736,Electronics,Nagpur,57,2
+737,Agri Products,Kolkata,116,6
+738,Automobile,Pune,66,1
+739,Agri Products,Mumbai,14,1
+740,Textile,Nagpur,36,2
+741,Textile,Nagpur,86,2
+742,Electronics,Nashik,114,2
+743,Electronics,Pune,67,1
+744,Electronics,Pune,7,3
+745,Construction,Bangalore,80,6
+746,Automobile,Pune,94,2
+747,Construction,Nagpur,124,3
+748,Automobile,Kolkata,95,3
+749,Automobile,Bangalore,111,3
+750,Agri Products,Mumbai,119,3
+751,Agri Products,Pune,102,4
+752,Transport & Logistics,Kolkata,139,1
+753,Electronics,Bangalore,123,2
+754,Automobile,Nagpur,32,3
+755,Automobile,Pune,147,3
+756,Transport & Logistics,Nashik,131,2
+757,Electronics,Kolkata,38,2
+758,Transport & Logistics,Nagpur,149,1
+759,Agri Products,Nashik,26,6
+760,Electronics,Mumbai,118,6
+761,Construction,Nashik,122,6
+762,Construction,Nashik,38,5
+763,Electronics,Mumbai,115,2
+764,Transport & Logistics,Nagpur,50,2
+765,Electronics,Nashik,76,6
+766,Construction,Kolkata,109,3
+767,Transport & Logistics,Nagpur,38,4
+768,Electronics,Pune,91,2
+769,Agri Products,Bangalore,126,1
+770,Textile,Bangalore,149,2
+771,Electronics,Nashik,8,6
+772,Agri Products,Nagpur,91,2
+773,Transport & Logistics,Nagpur,140,1
+774,Transport & Logistics,Kolkata,89,2
+775,Construction,Nagpur,138,4
+776,Automobile,Kolkata,110,5
+777,Construction,Pune,9,2
+778,Automobile,Nagpur,144,4
+779,Transport & Logistics,Bangalore,2,1
+780,Agri Products,Pune,105,2
+781,Textile,Mumbai,109,3
+782,Textile,Nashik,135,4
+783,Textile,Pune,11,5
+784,Transport & Logistics,Pune,19,2
+785,Electronics,Pune,60,6
+786,Electronics,Nagpur,92,3
+787,Textile,Bangalore,7,4
+788,Electronics,Mumbai,42,1
+789,Textile,Pune,26,1
+790,Construction,Kolkata,120,3
+791,Agri Products,Nagpur,98,2
+792,Automobile,Kolkata,59,4
+793,Automobile,Nashik,3,3
+794,Construction,Nagpur,26,5
+795,Electronics,Pune,9,2
+796,Electronics,Bangalore,2,4
+797,Construction,Nagpur,39,5
+798,Transport & Logistics,Mumbai,82,3
+799,Construction,Kolkata,40,6
+800,Electronics,Nashik,72,1
+801,Agri Products,Nashik,123,6
+802,Agri Products,Nagpur,82,2
+803,Construction,Nashik,36,6
+804,Electronics,Nashik,70,3
+805,Automobile,Kolkata,6,3
+806,Textile,Kolkata,90,1
+807,Automobile,Bangalore,115,4
+808,Construction,Nashik,9,1
+809,Electronics,Bangalore,30,6
+810,Construction,Pune,64,6
+811,Electronics,Kolkata,86,3
+812,Construction,Kolkata,139,6
+813,Construction,Kolkata,73,5
+814,Automobile,Pune,13,6
+815,Electronics,Mumbai,23,3
+816,Electronics,Pune,129,2
+817,Automobile,Nashik,61,3
+818,Construction,Nashik,145,3
+819,Automobile,Nagpur,9,3
+820,Transport & Logistics,Nagpur,131,5
+821,Textile,Nagpur,99,1
+822,Construction,Kolkata,116,4
+823,Agri Products,Nashik,65,4
+824,Transport & Logistics,Bangalore,129,2
+825,Transport & Logistics,Pune,38,6
+826,Transport & Logistics,Kolkata,118,6
+827,Construction,Nashik,40,3
+828,Electronics,Nashik,9,1
+829,Agri Products,Pune,110,1
+830,Transport & Logistics,Mumbai,40,5
+831,Textile,Mumbai,117,1
+832,Agri Products,Nagpur,49,2
+833,Textile,Nashik,117,6
+834,Electronics,Nagpur,148,3
+835,Construction,Bangalore,15,3
+836,Construction,Nashik,121,2
+837,Construction,Kolkata,30,6
+838,Transport & Logistics,Mumbai,148,4
+839,Agri Products,Nagpur,128,5
+840,Transport & Logistics,Kolkata,93,4
+841,Automobile,Bangalore,116,5
+842,Textile,Bangalore,59,2
+843,Transport & Logistics,Kolkata,132,2
+844,Automobile,Pune,135,4
+845,Transport & Logistics,Kolkata,96,3
+846,Electronics,Bangalore,56,4
+847,Agri Products,Bangalore,119,1
+848,Electronics,Bangalore,82,4
+849,Textile,Mumbai,37,2
+850,Textile,Pune,31,1
+851,Automobile,Bangalore,103,6
+852,Agri Products,Nashik,116,4
+853,Transport & Logistics,Pune,85,3
+854,Textile,Kolkata,70,1
+855,Agri Products,Pune,136,2
+856,Construction,Bangalore,32,4
+857,Electronics,Kolkata,85,1
+858,Agri Products,Bangalore,5,6
+859,Transport & Logistics,Bangalore,149,3
+860,Construction,Mumbai,80,3
+861,Construction,Mumbai,97,1
+862,Construction,Kolkata,138,5
+863,Construction,Kolkata,66,1
+864,Transport & Logistics,Pune,140,3
+865,Automobile,Nashik,101,3
+866,Electronics,Bangalore,7,1
+867,Construction,Bangalore,133,4
+868,Electronics,Nagpur,3,2
+869,Electronics,Nagpur,46,2
+870,Automobile,Nashik,140,3
+871,Agri Products,Pune,2,2
+872,Automobile,Mumbai,42,3
+873,Construction,Kolkata,103,4
+874,Construction,Nagpur,47,6
+875,Automobile,Kolkata,143,1
+876,Construction,Pune,100,1
+877,Electronics,Kolkata,10,5
+878,Textile,Nashik,25,6
+879,Construction,Pune,37,2
+880,Construction,Kolkata,24,2
+881,Automobile,Mumbai,71,1
+882,Agri Products,Nagpur,77,3
+883,Textile,Kolkata,34,5
+884,Automobile,Nagpur,143,4
+885,Construction,Pune,94,2
+886,Construction,Kolkata,21,1
+887,Construction,Bangalore,15,2
+888,Textile,Kolkata,9,2
+889,Transport & Logistics,Pune,95,3
+890,Textile,Pune,64,6
+891,Textile,Mumbai,124,5
+892,Automobile,Pune,83,6
+893,Automobile,Bangalore,28,1
+894,Transport & Logistics,Mumbai,12,5
+895,Construction,Kolkata,43,4
+896,Textile,Bangalore,148,6
+897,Textile,Nashik,20,5
+898,Construction,Pune,11,5
+899,Agri Products,Nashik,131,4
+900,Automobile,Kolkata,45,5
+901,Electronics,Mumbai,25,1
+902,Textile,Nashik,66,6
+903,Textile,Mumbai,7,6
+904,Agri Products,Kolkata,102,4
+905,Automobile,Pune,38,4
+906,Construction,Pune,54,4
+907,Transport & Logistics,Pune,8,3
+908,Automobile,Bangalore,49,4
+909,Automobile,Nashik,26,3
+910,Automobile,Nagpur,97,3
+911,Agri Products,Mumbai,101,5
+912,Agri Products,Bangalore,81,5
+913,Automobile,Nashik,32,2
+914,Automobile,Bangalore,101,4
+915,Agri Products,Pune,120,2
+916,Automobile,Pune,28,1
+917,Automobile,Mumbai,148,1
+918,Automobile,Pune,57,1
+919,Agri Products,Pune,34,6
+920,Agri Products,Bangalore,23,2
+921,Electronics,Kolkata,47,1
+922,Automobile,Mumbai,139,5
+923,Agri Products,Bangalore,24,1
+924,Automobile,Nashik,71,2
+925,Automobile,Nashik,135,2
+926,Automobile,Kolkata,18,3
+927,Transport & Logistics,Pune,6,5
+928,Agri Products,Pune,109,4
+929,Construction,Kolkata,52,1
+930,Electronics,Nashik,15,3
+931,Construction,Nagpur,107,3
+932,Automobile,Mumbai,119,6
+933,Automobile,Nagpur,114,4
+934,Construction,Bangalore,8,6
+935,Construction,Kolkata,17,6
+936,Agri Products,Pune,118,1
+937,Textile,Bangalore,34,1
+938,Electronics,Pune,113,3
+939,Textile,Bangalore,119,4
+940,Construction,Nagpur,44,1
+941,Agri Products,Kolkata,93,2
+942,Textile,Nashik,102,1
+943,Automobile,Kolkata,66,2
+944,Electronics,Nashik,108,4
+945,Electronics,Mumbai,140,5
+946,Transport & Logistics,Nashik,26,3
+947,Automobile,Bangalore,103,1
+948,Textile,Kolkata,6,2
+949,Agri Products,Pune,33,3
+950,Transport & Logistics,Nashik,4,5
+951,Textile,Pune,41,2
+952,Textile,Nagpur,134,4
+953,Construction,Nashik,65,3
+954,Construction,Bangalore,45,5
+955,Construction,Kolkata,103,4
+956,Automobile,Bangalore,31,4
+957,Automobile,Kolkata,87,2
+958,Agri Products,Nashik,42,4
+959,Transport & Logistics,Bangalore,33,4
+960,Textile,Pune,12,1
+961,Automobile,Mumbai,65,4
+962,Agri Products,Mumbai,19,2
+963,Automobile,Nashik,144,1
+964,Construction,Kolkata,31,5
+965,Automobile,Bangalore,56,2
+966,Agri Products,Bangalore,135,6
+967,Transport & Logistics,Mumbai,132,5
+968,Transport & Logistics,Mumbai,54,4
+969,Transport & Logistics,Mumbai,20,2
+970,Textile,Kolkata,85,2
+971,Automobile,Mumbai,47,1
+972,Transport & Logistics,Nashik,46,4
+973,Agri Products,Bangalore,97,3
+974,Textile,Bangalore,117,5
+975,Construction,Nagpur,111,3
+976,Electronics,Bangalore,119,6
+977,Electronics,Pune,65,2
+978,Automobile,Kolkata,106,1
+979,Construction,Nagpur,10,3
+980,Construction,Nashik,36,4
+981,Construction,Kolkata,46,6
+982,Automobile,Nagpur,44,3
+983,Textile,Nagpur,144,2
+984,Agri Products,Nagpur,85,3
+985,Agri Products,Kolkata,88,4
+986,Agri Products,Nagpur,128,1
+987,Textile,Pune,94,1
+988,Transport & Logistics,Nashik,118,2
+989,Automobile,Kolkata,133,5
+990,Construction,Nashik,99,6
+991,Textile,Kolkata,41,2
+992,Construction,Nagpur,114,4
+993,Construction,Bangalore,1,3
+994,Automobile,Nashik,74,2
+995,Agri Products,Mumbai,31,6
+996,Construction,Bangalore,104,6
+997,Transport & Logistics,Mumbai,39,2
+998,Textile,Kolkata,12,4
+999,Agri Products,Pune,141,2
+1000,Automobile,Mumbai,66,3
